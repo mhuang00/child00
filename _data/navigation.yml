@@ -4,9 +4,9 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: https://mhuang00.github.io/child00/about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - description: "Description"
+  - title: "The Team"
+    url: https://mhuang00.github.io/child00/team/
+  - description: "description: the team"
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
