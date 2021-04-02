@@ -1,5 +1,5 @@
 ---
-permalink: /The Team/
+permalink: /team/
 title: "The Team"
 ---
 
