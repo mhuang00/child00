@@ -4,6 +4,8 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: https://mhuang00.github.io/child00/about/
+  - title: "Blog"
+    url: https://mhuang00.github.io/child00/blog/  
   - title: "Research"
     url: https://mhuang00.github.io/child00/research/
   - title: "Publications"
