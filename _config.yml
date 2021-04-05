@@ -289,6 +289,4 @@ defaults:
     values:
       layout: single
       author_profile: true
-  - sidebar:
-    - title: "Latest News"
 
