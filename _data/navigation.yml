@@ -12,7 +12,7 @@ main:
     url: https://mhuang00.github.io/child00/software/  
   - title: "Team"
     url: https://mhuang00.github.io/child00/team/
-  - description: "description: the team"
+    description: "description: the team"
   - title: "Contact"
     url: https://mhuang00.github.io/child00/contact/
   # - title: "Sample Collections"
