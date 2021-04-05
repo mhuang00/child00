@@ -7,7 +7,7 @@
   margin-bottom: 2em;
 
   @include breakpoint($large) {
-//     float: left;
+    float: left;
     width: calc(100% - #{$right-sidebar-width-narrow});
 //     width: 100%;
     padding-left: $right-sidebar-width-narrow;
