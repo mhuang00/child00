@@ -91,7 +91,10 @@
       position: sticky;
       top: 2em;
       float: right;
-    }
+     }
+  h2 {
+     font-weight: bold;
+     }
   }
 
   @include breakpoint($x-large) {
