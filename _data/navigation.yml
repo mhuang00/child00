@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Guide URL"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+#   - title: "Guide URL"
+#     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: https://mhuang00.github.io/child00/about/
   - title: "Blog"
