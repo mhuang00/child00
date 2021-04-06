@@ -226,9 +226,6 @@ figure {
     border-radius: $border-radius;
     -webkit-transition: $global-transition;
     transition: $global-transition;
-   filter: gray; /* IE6-9 */
-   -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
-   filter: grayscale(1); /* Microsoft Edge and Firefox 35+ */
   }
 
   > a {
