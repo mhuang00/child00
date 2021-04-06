@@ -15,19 +15,20 @@ layout: default
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">{% endif %}
     {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
     
-    <aside>
-    This is aside.
-    </aside>
-    
-    <h2>This is the introduction.</h2>
-    <p>This is the introduction.</p>
+    <section class="page__content" itemprop="text">
+      {{ content }}
+      
+      <aside>
+      This is aside.
+      </aside>
+      
+      <h2>This is the introduction.</h2>
+      <p>This is the introduction.</p>
+      
+    </section>    
   </article>
   
-  <section class="page__content" itemprop="text">
-    {{ content }}
-<!--     <h2>This is the introduction.</h2>
-    <p>This is the introduction.</p> -->
-  </section>
+
   
   {% include feature_row %}
 </div>
