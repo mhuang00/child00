@@ -22,13 +22,6 @@
         <div class="archive__item-body">
           {% if f.title %}
             <a href="{{ f.url | relative_url }}"><h2 class="archive__item-title">{{ f.title }}</h2></a>
-              {% comment %}
-              {% if post.link %} 
-                <a href="{{ f.link }}">{{ title }}</a> <a href="{{ f.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-              {% else %}
-                <a href="{{ f.url | relative_url }}" rel="permalink">{{ title }}</a>
-              {% endif %}
-              {% endcomment %}
           {% endif %}
 
           {% if f.excerpt %}
@@ -36,10 +29,12 @@
               {{ f.excerpt | markdownify }}
             </div>
           {% endif %}
-
+           
+          {% comment %}
           {% if f.url %}
             <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
           {% endif %}
+          {% endcomment %}
         </div>
       </div>
     </div>
