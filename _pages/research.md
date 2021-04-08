@@ -13,5 +13,5 @@ feature_row:
 - image_path: /assets/images/homepage-feature-microscope.jpg
   title: "DNA Modifications"
 - image_path: /assets/images/homepage-feature-coffee.jpg
-  title: "Deep Learning Applications"
+  title: "Deep Learning Methods"
 ---
