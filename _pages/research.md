@@ -6,7 +6,6 @@ layout: research
 header:
   overlay_image: /assets/images/homepage-banner.jpg
   
-  
  feature_row:
   - image_path: /assets/images/homepage-feature-ai.jpg
     url: "/blog/welcome-to-jekyll/"
