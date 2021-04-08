@@ -9,27 +9,25 @@ layout: default
 {% endif %}
 
 <div id="main" role="main">
+  <h2>About</h2>
   <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">{% endif %}
     {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
     {{ content }}
-  </article>
-  
-  <section>
     
-    <h2>About</h2>
-    <p>
     <aside class="sidebar__right">
        <h3>Latest News</h3>
        <p>This is aside.</p>
     </aside>
-
+  </article>
+  
+  <section>
+<!--     <h2>About</h2> -->
+    <p>
     We are a team working on computational genomics. Our members are located at both Genome Institute of Singapore (GIS), Singapore and Zagreb, Croatia. Our work focuses on the areas: Whole genome sequencing alignment, Sequence alignment, Metagenomics, De novo assembly, DNA modifications, <a href="research/">Deep learning applications</a>
-    
     {% include feature_row %}
-    
     </p>
     
   </section>
