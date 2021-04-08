@@ -75,7 +75,7 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    position: absolute;
+    position: relative; //absolute>relative
     top: 0;
     right: 0;
     background-color: #eee;
