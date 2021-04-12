@@ -14,8 +14,4 @@ feature_row:
   title: "DNA Modifications"
 - image_path: /assets/images/homepage-feature-coffee.jpg
   title: "Deep Learning Methods"
-  
-  
-[//]: # (This is a comment.)
-
 ---
