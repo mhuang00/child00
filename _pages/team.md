@@ -9,6 +9,7 @@ header:
 gallery:
 - image_path: /assets/images/homepage-feature-ai.jpg
   title: "De Novo Assembly"
+  caption: "De Novo Assembly"
 - image_path: /assets/images/homepage-feature-microscope.jpg
   title: "DNA Modifications"
 - image_path: /assets/images/homepage-feature-coffee.jpg
