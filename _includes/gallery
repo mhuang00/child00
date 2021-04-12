@@ -35,7 +35,7 @@
   
   <div class="archive__item-body">
           {% if f.title %}
-            <a href="{{ f.url | relative_url }}"><h2 class="archive__item-title">{{ f.title }}</h2></a>
+            <a href="{{ img.url | relative_url }}"><h2 class="archive__item-title">{{ img.title }}</h2></a>
           {% endif %}
           
 </figure>
