@@ -266,12 +266,12 @@
     }
 
     &:nth-child(3n + 2) {
-      clear: none;
+      clear: both; // noen>both
       margin-left: gutter(of 12);
     }
 
     &:nth-child(3n + 3) {
-      clear: none;
+      clear: both; // none>both
       margin-left: gutter(of 12);
     }
 
