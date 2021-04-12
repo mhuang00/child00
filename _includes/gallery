@@ -32,4 +32,10 @@
   {% if include.caption %}
     <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
   {% endif %}
+  
+  <div class="archive__item-body">
+          {% if f.title %}
+            <a href="{{ f.url | relative_url }}"><h2 class="archive__item-title">{{ f.title }}</h2></a>
+          {% endif %}
+          
 </figure>
