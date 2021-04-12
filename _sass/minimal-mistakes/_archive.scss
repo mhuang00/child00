@@ -51,6 +51,7 @@
   line-height: initial;
   overflow: hidden;
   text-overflow: ellipsis;
+  vertical-align: middle; //
 
   a[rel="permalink"]::before {
     content: '';
@@ -112,7 +113,7 @@
   z-index: 5;
   opacity: 0.5;
   border-radius: $border-radius 0 0 0;
-  vertical-align: middle;
+  vertical-align: middle; //
 
   @include breakpoint($large) {
     padding: 5px 10px;
