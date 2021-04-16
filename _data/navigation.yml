@@ -3,20 +3,20 @@ main:
 #   - title: "Guide URL"
 #     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 #   - title: "About"
-#     url: https://mhuang00.github.io/child00/about/
+#     url: https://sikic-lab.github.io/about/
   - title: "Blog"
-    url: https://mhuang00.github.io/child00/blog/  
+    url: https://sikic-lab.github.io/blog/  
   - title: "Research"
-    url: https://mhuang00.github.io/child00/research/
+    url: https://sikic-lab.github.io/research/
   - title: "Publications"
-    url: https://mhuang00.github.io/child00/publications/
+    url: https://sikic-lab.github.io/publications/
   - title: "Software"
-    url: https://mhuang00.github.io/child00/software/  
+    url: https://sikic-lab.github.io/software/  
   - title: "Team"
-    url: https://mhuang00.github.io/child00/team/
+    url: https://sikic-lab.github.io/team/
     description: "description: the team"
   - title: "Contact"
-    url: https://mhuang00.github.io/child00/contact/
+    url: https://sikic-lab.github.io/contact/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
