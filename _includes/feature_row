@@ -21,7 +21,9 @@
 
         <div class="archive__item-body">
           {% if f.title %}
-            {% comment}<a href="{{ f.url | relative_url }}"><h2 class="archive__item-title">{{ f.title }}</h2></a>{% endcomment %}
+            {% comment}
+            <a href="{{ f.url | relative_url }}"><h2 class="archive__item-title">{{ f.title }}</h2></a>
+            {% endcomment %}
             <h2 class="archive__item-title">{{ f.title }}</h2>
           {% endif %}
 
