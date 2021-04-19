@@ -1,6 +1,7 @@
 ---
-permalink: /research/
+permalink: /software/
 title: "Software"
+layout: research
 
 header:
   overlay_image: /assets/images/homepage-banner.jpg
