@@ -10,8 +10,7 @@ feature_row:
 - image_path: /assets/images/tools_icon.png
   title: "Racon"
   excerpt: "Racon is the state-of-the-art tool for the consensus and/or polishing of genome assemblies. SPOA its core module is a SIMD accelerated multiple sequence alignment tool"
-- image_path: 
-  title: "Raven"
+ - title: "Raven"
   excerpt: "Raven is a straightforward, fast, and memory-efficient de novo assembler optimized for work with Nanopore and Pacbio CLR sequenced data."
 - image_path:
   title: "Edlib"
