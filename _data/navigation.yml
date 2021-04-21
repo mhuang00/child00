@@ -5,18 +5,18 @@ main:
 #   - title: "About"
 #     url: https://sikic-lab.github.io/about/
   - title: "Blog"
-    url: https://sikic-lab.github.io/blog/  
+    url: https://sikic-lab.github.io/child00/blog/  
   - title: "Research"
-    url: https://sikic-lab.github.io/research/
+    url: https://sikic-lab.github.io/child00/research/
   - title: "Publications"
-    url: https://sikic-lab.github.io/publications/
+    url: https://sikic-lab.github.io/child00/publications/
   - title: "Software"
-    url: https://sikic-lab.github.io/software/  
+    url: https://sikic-lab.github.io/child00/software/  
   - title: "Team"
-    url: https://sikic-lab.github.io/team/
+    url: https://sikic-lab.github.io/child00/team/
     description: "description: the team"
   - title: "Contact"
-    url: https://sikic-lab.github.io/contact/
+    url: https://sikic-lab.github.io/child00/contact/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
