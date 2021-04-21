@@ -6,7 +6,7 @@ layout: team
 header:
   overlay_image: /assets/images/homepage-banner.jpg
   
-gallery:
+feature_row:
 - image_path: /assets/images/homepage-feature-ai.jpg
   title: "De Novo Assembly"
   caption: "De Novo Assembly"
