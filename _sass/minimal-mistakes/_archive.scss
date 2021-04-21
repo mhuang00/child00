@@ -18,7 +18,7 @@
     width: 100%;
     padding-right: $right-sidebar-width;
   }
-}
+
 
 .archive__item {
   position: relative;
@@ -91,6 +91,17 @@
 .archive__item-teaser {
   position: relative;
   border-radius: $border-radius;
+  overflow: hidden;
+
+  img {
+    width: 100%;
+    height: 100%;
+  }
+}
+	
+.archive__item-team { // new for team_page
+  position: relative;
+  border-radius: 50%;
   overflow: hidden;
 
   img {
