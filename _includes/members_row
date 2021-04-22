@@ -20,9 +20,11 @@
         {% endif %}
 
         <div class="archive__item-body">
+        {% if f.url %}
           {% if f.title %}
-            <name><h3 class="archive__item-title">{{ f.title }}</h3></name>
+            <name><a href="{{ f.url | relative_url }}"><h3 class="archive__item-title">{{ f.title }}</h3></a></name>
           {% endif %}
+        {% endif %}
 
           {% if f.excerpt %}
             <div class="archive__item-excerpt">
