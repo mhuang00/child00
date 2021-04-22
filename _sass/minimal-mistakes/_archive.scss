@@ -264,9 +264,13 @@
 .feature__wrapper {
   @include clearfix();
   margin-bottom: 2em;
-  border-bottom: 5px solid $border-color;
+//   border-bottom: 5px solid $border-color;
 
   .archive__item-title {
+    margin-bottom: 0;
+  }
+	
+  .archive__item-excerpt {
     margin-bottom: 0;
   }
 
@@ -276,6 +280,8 @@
 	}
 }
 
+
+	
 .feature__item {
   position: relative;
   font-size: 1.125em;
