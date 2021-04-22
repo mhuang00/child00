@@ -272,12 +272,15 @@
 //     text-align: center; //
   }
 
-  name {text-align:center}
+  name {
+	  text-align: center;
+	  margin-top: 2em;
+	  margin-bottom: 2em;
+	}
 }
 
 .feature__item {
   position: relative;
-  margin-bottom: 2em;
   font-size: 1.125em;
 
   @include breakpoint($small) {
