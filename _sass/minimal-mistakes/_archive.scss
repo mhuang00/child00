@@ -183,20 +183,20 @@
 .grid__item {
   margin-bottom: 2em;
 
-  @include breakpoint($small) { 
-    float: left;
-    width: span(5 of 10);
+//   @include breakpoint($small) { 
+//     float: left;
+//     width: span(5 of 10);
 
-    &:nth-child(2n + 1) {
-      clear: both;
-      margin-left: 0;
-    }
+//     &:nth-child(2n + 1) {
+//       clear: both;
+//       margin-left: 0;
+//     }
 
-    &:nth-child(2n + 2) {
-      clear: none;
-      margin-left: gutter(of 10);
-    }
-}
+//     &:nth-child(2n + 2) {
+//       clear: none;
+//       margin-left: gutter(of 10);
+//     }
+// }
 	
   @include breakpoint($medium) {
     margin-left: 0; /* override margin*/
