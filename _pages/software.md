@@ -6,7 +6,7 @@ layout: software
 header:
   overlay_image: /assets/images/homepage-banner.jpg
   
-feature_row:
+grid_row:
 - title: "Racon"
   excerpt: "Racon is the state-of-the-art tool for the consensus and/or polishing of genome assemblies. SPOA its core module is a SIMD accelerated multiple sequence alignment tool"
 - title: "Raven"
