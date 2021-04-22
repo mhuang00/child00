@@ -158,36 +158,46 @@
 /*
    ========================================================================== */
 
-// .archive {
 .grid__wrapper {
-  /* extend grid elements to the right */
+	
+  @include clearfix(); // added
+  margin-bottom: 2em;
+//   border-bottom: 5px solid $border-color;
 
-  @include breakpoint($large) {
-    margin-right: -1 * $right-sidebar-width-narrow;
+  .archive__item-title {
+    margin-bottom: 0;
   }
-
-  @include breakpoint($x-large) {
-    margin-right: -1 * $right-sidebar-width;
-  }
+	
+  .archive__item-excerpt {
+    margin-bottom: 0;
+  } // added/
+	
+//   /* extend grid elements to the right */ // original
+//   @include breakpoint($large) {
+//     margin-right: -1 * $right-sidebar-width-narrow;
+//   }
+//   @include breakpoint($x-large) {
+//     margin-right: -1 * $right-sidebar-width;
+//   }
+	
 }
-// }
 
 .grid__item {
   margin-bottom: 2em;
 
-//   @include breakpoint($small) {
-//     float: left;
-//     width: span(5 of 10);
+  @include breakpoint($small) {
+    float: left;
+    width: span(5 of 10);
 
-//     &:nth-child(2n + 1) {
-//       clear: both;
-//       margin-left: 0;
-//     }
+    &:nth-child(2n + 1) {
+      clear: both;
+      margin-left: 0;
+    }
 
-//     &:nth-child(2n + 2) {
-//       clear: none;
-//       margin-left: gutter(of 10);
-//     }
+    &:nth-child(2n + 2) {
+      clear: none;
+      margin-left: gutter(of 10);
+    }
 	  
   @include clearfix();
   margin-bottom: 2em;
