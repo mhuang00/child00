@@ -269,13 +269,14 @@
 
   .archive__item-title {
     margin-bottom: 0;
-//     text-align: center; //
+    line-height: 1em; //
+    height: 1em; //
   }
 
-  name {
+  name { //
 	  text-align: center;
-	  line-height: 1em;
-	  height: 1em;
+// 	  line-height: 1em;
+// 	  height: 1em;
 // 	  margin-top: 5em;
 // 	  margin-bottom: 5em;
 	}
