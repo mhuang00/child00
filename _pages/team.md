@@ -10,6 +10,7 @@ feature_row:
 - image_path: /assets/images/team_mile.jpg
   title: "Mile Šikić"
   url: " "
+  excerpt: "Head of Laboratory"
 - image_path: /assets/images/team_kresimir.png
   title: "Krešimir Križanović"
   url: " "
