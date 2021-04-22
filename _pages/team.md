@@ -31,5 +31,4 @@ feature_row:
   url: " "
 - image_path: /assets/images/team_megan.png
   title: "Megan Huang"
-  url: " "
 ---
