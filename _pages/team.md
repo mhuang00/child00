@@ -14,7 +14,7 @@ feature_row:
   title: "Krešimir Križanović"
 - image_path: /assets/images/team_robert.jpg
   title: "Robert Vaser"
-  url: https://github.com/rvaser/
+  url: "https://github.com/rvaser/"
 - image_path: /assets/images/team_lovro.jpg
   title: "Lovro Vrček"
 - image_path: /assets/images/team_dominik.png
