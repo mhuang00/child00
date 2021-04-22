@@ -159,19 +159,19 @@
    Grid view
    ========================================================================== */
 
-.archive {
-  .grid__wrapper {
-    /* extend grid elements to the right */
+// .archive {
+.grid__wrapper {
+  /* extend grid elements to the right */
 
-    @include breakpoint($large) {
-      margin-right: -1 * $right-sidebar-width-narrow;
-    }
+  @include breakpoint($large) {
+    margin-right: -1 * $right-sidebar-width-narrow;
+  }
 
-    @include breakpoint($x-large) {
-      margin-right: -1 * $right-sidebar-width;
-    }
+  @include breakpoint($x-large) {
+    margin-right: -1 * $right-sidebar-width;
   }
 }
+// }
 
 .grid__item {
   margin-bottom: 2em;
