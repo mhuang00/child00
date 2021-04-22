@@ -21,9 +21,9 @@
 
         <div class="archive__item-body">
           {% if f.title %}
-            <name><h3 class="archive__item-title">{{ f.title }}</h3></name>
+            <h3 class="archive__item-title">{{ f.title }}</h3>
             {% if f.url %}
-              <name><a href="{{ f.url }}"><h3 class="archive__item-title">{{ f.title }}</h3></a></name>
+              <a href="{{ f.url }}"><h3 class="archive__item-title">{{ f.title }}</h3></a>
             {% if endif %}
           {% endif %}
 
