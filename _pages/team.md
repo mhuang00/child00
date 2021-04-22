@@ -18,7 +18,7 @@ feature_row:
   url: "https://github.com/rvaser/"
 - image_path: /assets/images/team_lovro.jpg
   title: "Lovro Vrček"
-  url: " "
+  url: "https://github.com/lvrcek/"
 - image_path: /assets/images/team_dominik.png
   title: "Dominik Stanojević"
   url: " "
