@@ -159,7 +159,6 @@
    ========================================================================== */
 
 .grid__wrapper {
-	
   @include clearfix(); // added
   margin-bottom: 2em;
 //   border-bottom: 5px solid $border-color;
@@ -179,7 +178,6 @@
 //   @include breakpoint($x-large) {
 //     margin-right: -1 * $right-sidebar-width;
 //   }
-	
 }
 
 .grid__item {
@@ -198,19 +196,7 @@
       clear: none;
       margin-left: gutter(of 10);
     }
-	  
-  @include clearfix();
-  margin-bottom: 2em;
-//   border-bottom: 5px solid $border-color;
-
-  .archive__item-title {
-    margin-bottom: 0;
-  }
-	
-  .archive__item-excerpt {
-    margin-bottom: 0;
-  }
-
+}
 	
   @include breakpoint($medium) {
     margin-left: 0; /* override margin*/
