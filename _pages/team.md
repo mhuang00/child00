@@ -1,6 +1,6 @@
 ---
 permalink: /team/
-title: "The Team"
+title: "Team"
 layout: team
 
 header:
@@ -12,7 +12,6 @@ feature_row:
   excerpt: "Head of Laboratory"
 - image_path: /assets/images/team_kresimir.png
   title: "Krešimir Križanović"
-  url: " "
 - image_path: /assets/images/team_robert.jpg
   title: "Robert Vaser"
   url: "https://github.com/rvaser/"
