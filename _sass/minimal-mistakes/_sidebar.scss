@@ -75,7 +75,8 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    position: relative; //absolute>relative
+    position: absolute;
+    height: 100%;
     top: 0;
     right: 0;
     float: right;
