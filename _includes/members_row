@@ -21,7 +21,7 @@
 
         <div class="archive__item-body">
           {% if f.title %}
-            <name><h4 class="archive__item-title"><a href={% if f.url %}"{{ f.url }}" target="_blank"{% endif %} style="text-decoration:none;">{{ f.title }}</a></h4></name>
+            <name><h4 class="archive__item-title">{% if f.url %}<a href="{{ f.url }}" target="_blank" style="text-decoration:none;">{% endif %}{{ f.title }}</a></h4></name>
           {% endif %}
 
           {% if f.excerpt %}
