@@ -206,8 +206,8 @@
 //     }
 
     &:nth-child(3n + 1) {
-      margin-left: gutter(of 12);
-      clear: none;
+      margin-left: 0; // gutter(of 12);
+      clear: both; // none;
     }
 
     &:nth-child(3n + 2) {
@@ -292,7 +292,7 @@
     width: span(3 of 12);
 
     &:nth-child(4n + 1) {
-      clear: none;
+      clear: both;
       margin-left: 0;
     }
 
