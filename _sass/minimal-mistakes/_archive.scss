@@ -159,15 +159,6 @@
 .grid__wrapper {
   @include clearfix(); // added
   margin-bottom: 2em;
-//   border-bottom: 5px solid $border-color;
-
-  .archive__item-title {
-    margin-bottom: 0;
-  }
-	
-  .archive__item-excerpt {
-    margin-bottom: 0;
-  } // added/
 	
 //   /* extend grid elements to the right */ // original
 //   @include breakpoint($large) {
@@ -196,10 +187,11 @@
 //     }
 // }
 	
-  @include breakpoint($medium) {
+  @include breakpoint($small) {		//medium>small
 //     margin-left: 0; /* override margin*/
 //     margin-right: 0; /* override margin*/
     width: span(4 of 12);
+    float: left;
 
 //     &:nth-child(2n + 1) {
 //       clear: none;
