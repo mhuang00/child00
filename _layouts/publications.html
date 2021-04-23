@@ -1,12 +1,6 @@
-  ---
+---
 layout: default
 ---
-
-{% if include.id %}
-  {% assign grid_row = page[include.id] %}
-{% else %}
-  {% assign grid_row = page.grid_row %}
-{% endif %}
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
@@ -15,22 +9,7 @@ layout: default
 {% endif %}
 
 <div id="main" role="main">
-  
-  <div class="grid__wrapper">
-    <div class="archive__item-body">
-      {% if f.title %}
-      <h2 class="archive__item-title">{{ f.title }}</h2>
-      {% endif %}
-
-      {% if f.excerpt %}
-        <div class="archive__item-excerpt">
-          {{ f.excerpt | markdownify }}
-        </div>
-          {% endif %}
-    </div>
-    
-  </div>
-
+  {% include pubs_list %}
   
   <article>
 <!--   <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
