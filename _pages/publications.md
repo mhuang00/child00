@@ -19,6 +19,6 @@ pubs_list:
   - except: R Vaser. "Algorithms for de novo assembly of large genomes" University of Zagreb. Faculty of Electrical Engineering and Computing … 2019
   - except: J Marić, I Sović, K Križanović, N Nagarajan, M Šikić. "Graphmap2-splice-aware RNA-seq mapper for long reads" bioRxiv, 720458	1. 2019
   - except: K Križanović, A Echchiki, J Roux, M Šikić. "Evaluation of tools for long read RNA-seq splice-aware alignment" Bioinformatics 34 (5), 748-754. 2018
-  - excerpt: R Vaser, M Sikic. "Raven: a de novo genome assembler for long reads" bioRxiv. 2020
 ---
 
+[//]: # - excerpt: R Vaser, M Sikic. "Raven: a de novo genome assembler for long reads" bioRxiv. 2020
