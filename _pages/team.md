@@ -10,8 +10,6 @@ feature_row:
 - image_path: /assets/images/team_mile.jpg
   title: "Mile Šikić"
   excerpt: "Head of Laboratory"
-- image_path: /assets/images/team_kresimir.png
-  title: "Krešimir Križanović"
 - image_path: /assets/images/team_robert.jpg
   title: "Robert Vaser"
   url: "https://github.com/rvaser/"
@@ -19,6 +17,8 @@ feature_row:
   title: "Lovro Vrček"
 - image_path: /assets/images/team_dominik.png
   title: "Dominik Stanojević"
+- image_path: /assets/images/team_kresimir.png
+  title: "Krešimir Križanović"
 - image_path: /assets/images/team_josip.png
   title: "Josip Maric"
 - image_path: /assets/images/team_filip.png
