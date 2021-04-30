@@ -13,5 +13,7 @@ pubs_list:
   - excerpt: R Vaser, M Šikić. "Yet another de novo genome assembler" 2019 11th International Symposium on Image and Signal Processing and … 2019
   - excerpt: M Piškorec, T Šmuc, M Šikić. "Disentangling sources of influence in online social networks" IEEE access 7, 131692-131704. 2019
   - excerpt: D Bertrand, J Shaw, M Kalathiyappan, AHQ Ng, MS Kumar, C Li et all. "Hybrid metagenomic assembly enables high-resolution analysis of resistance determinants and mobile elements in human microbiomes" Nature biotechnology 37 (8), 937-944. 2019
+  - excerpt: J Marić, M Šikić"Approaches to metagenomic classification and assembly" 2019 42nd International Convention on Information and Communication … 2019
+  - except: T Šebrek, J Tomljanović, J Krapac, M Šikić. "Read classification using semi-supervised deep learning" arXiv preprint arXiv:1904.10353. 2019
 ---
   - excerpt: R Vaser, M Sikic. "Raven: a de novo genome assembler for long reads" bioRxiv. 2020
