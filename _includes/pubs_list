@@ -1,7 +1,7 @@
 {% if include.id %}
-  {% assign grid_row = page[include.id] %}
+  {% assign pubs_list = page[include.id] %}
 {% else %}
-  {% assign grid_row = page.pubs_list %}
+  {% assign pubs_list = page.pubs_list %}
 {% endif %}
 
   {% for f in pubs_list %}
