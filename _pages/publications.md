@@ -12,5 +12,7 @@ pubs_list:
   - except: L Vrček, P Veličković, M Šikić. "A step towards neural genome assembly" arXiv preprint arXiv:2011.05013. 2020
   - except: J Maric, K Krizanovic, S Riondet, N Nagarajan, M Sikic. "Benchmarking metagenomic classification tools for long-read sequencing data" bioRxiv. 2020
   - except:
+  - except: R Vaser, M Sikic. "Raven: a de novo genome assembler for long reads" bioRxiv. 2020
+
 
 ---
