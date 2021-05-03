@@ -25,7 +25,7 @@
           {% endif %}
 
           {% if f.excerpt %}
-              <name><p class="archive__item-except">{{ f.excerpt }}</p></name>
+              <unbold><name><p class="archive__item-except">{{ f.excerpt }}</p></name></unbold>
           {% endif %}
            
           {% comment %}
