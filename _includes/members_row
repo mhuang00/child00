@@ -25,7 +25,7 @@
           {% endif %}
 
           {% if f.excerpt %}
-              <span class="archive__item-except">{{ f.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+              <div class="archive__item-except">{{ f.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</div>
           {% endif %}
            
           {% comment %}
