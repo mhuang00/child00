@@ -234,19 +234,17 @@
 
   .archive__item-excerpt {
     display: none;
-  }
-	
-  name { //
-	  margin-bottom: 0;
-	  text-align: center;
-	}
-  }
 
     @include breakpoint($medium) {
       display: block;
       font-size: $type-size-6;
     }
   }
+	
+  name { //
+	  margin-bottom: 0;
+	  text-align: center;
+	}
 
   .archive__item-teaser {
     @include breakpoint($small) {
