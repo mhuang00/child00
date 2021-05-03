@@ -25,7 +25,7 @@
           {% endif %}
 
           {% if f.excerpt %}
-            <name>{{ f.excerpt | markdownify }}</name>
+            <name><p class="archive__item-except">{{ f.excerpt | markdownify }}</p></name>
           {% endif %}
            
           {% comment %}
