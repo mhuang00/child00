@@ -160,6 +160,19 @@
 .grid__wrapper {
   @include clearfix(); // added
   margin-bottom: 2em;
+
+  .archive__item-title {
+    margin-bottom: 0;
+  }
+	
+  .archive__item-excerpt {
+    margin-bottom: 0;
+  }
+
+  name { //
+	  margin-bottom: 0;
+	  text-align: center;
+	}
 	
 //   /* extend grid elements to the right */ // original
 //   @include breakpoint($large) {
@@ -240,11 +253,6 @@
       font-size: $type-size-6;
     }
   }
-	
-  name { //
-	  margin-bottom: 0;
-	  text-align: center;
-	}
 
   .archive__item-teaser {
     @include breakpoint($small) {
