@@ -14,17 +14,18 @@ layout: default
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">{% endif %}
     {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
-
-  <aside>
-     <h3>Latest News</h3>
-     <p>This is aside.</p>
-  </aside>
     
   <body>
     <h2>About</h2>
     <p>We are a team working on computational genomics. Our members are located at both Genome Institute of Singapore (GIS), Singapore and Zagreb, Croatia. Our work focuses on the areas: Whole genome sequencing alignment, Sequence alignment, Metagenomics, De novo assembly, DNA modifications, Deep learning applications.</p>
     <h2>Latest Posts</h2>
     {% include feature_row %}
+    
+  <aside>
+     <h3>Latest News</h3>
+     <p>This is aside.</p>
+  </aside>
+    
   </body>
   </article>
 </div>
