@@ -234,12 +234,13 @@
 
   .archive__item-excerpt {
     display: none;
-	  
+  }
+	
   name { //
 	  margin-bottom: 0;
 	  text-align: center;
 	}
-}
+  }
 
     @include breakpoint($medium) {
       display: block;
