@@ -21,12 +21,12 @@
 
         <div class="archive__item-body">
           {% if f.title %}
-          <h2 class="archive__item-title">{{ f.title }}</h2>
+            <name><h2 class="archive__item-title">{{ f.title }}</h2></name>
           {% endif %}
 
           {% if f.excerpt %}
             <div class="archive__item-excerpt">
-              <name>{{ f.excerpt | markdownify }}</name>
+              {{ f.excerpt | markdownify }}
             </div>
           {% endif %}
            
