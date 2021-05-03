@@ -25,10 +25,7 @@
           {% endif %}
 
           {% if f.excerpt %}
-            <div>
-              <div class="archive__item-except">
-                <name>{{ f.excerpt | markdownify }}</name>
-              </div>
+              <span class="archive__item-except">{{ f.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</span>
           {% endif %}
            
           {% comment %}
