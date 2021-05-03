@@ -109,6 +109,7 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: auto;
 
   img {
 //     width: 100%;
@@ -284,7 +285,7 @@
 
 .feature__wrapper {
   @include clearfix();
-  margin-bottom: 2em;
+  margin-bottom: 3em;
 //   border-bottom: 5px solid $border-color;
 
   .archive__item-title {
