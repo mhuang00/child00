@@ -231,6 +231,13 @@
       clear: none;
       margin-left: gutter(of 12);
     }
+	  
+    .feature__item-teaser { //
+      max-height: 200px;
+      max-width: 200px;
+      overflow: hidden;
+    }
+	  
   }
 
   .page__meta {
@@ -263,11 +270,6 @@
   .archive__item-teaser {
     @include breakpoint($small) {
       max-height: 200px;
-	    
-  img {
-    width: 100%;
-    height: 100%;
-  }
     }
 
     @include breakpoint($medium) {
