@@ -24,6 +24,8 @@ body {
 aside {
    float: right;
    background-color: #eee;
+   position: absolute;
+   z-index: -1;
 }
 
 h1,
