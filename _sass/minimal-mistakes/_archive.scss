@@ -210,7 +210,7 @@
 //     }
 // }
 	
-  @include breakpoint($small) {		//medium>small
+  @include breakpoint($medium) {		//medium>small
 //     margin-left: 0; /* override margin*/
 //     margin-right: 0; /* override margin*/
     width: span(4 of 12);
