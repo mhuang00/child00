@@ -210,7 +210,7 @@
 //     }
 // }
 	
-  @include breakpoint($medium) {		//medium>small
+  @include breakpoint($medium) {
 //     margin-left: 0; /* override margin*/
 //     margin-right: 0; /* override margin*/
     width: span(4 of 12);
@@ -317,7 +317,7 @@
 
   @include breakpoint($small) {
     float: left;
-    margin-bottom: 0;
+//     margin-bottom: 0;
     width: span(3 of 12);
 
     &:nth-child(4n + 1) {
