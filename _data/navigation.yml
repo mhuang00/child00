@@ -15,12 +15,9 @@ main:
   - title: "Team"
     url: https://sikic-lab.github.io/child00/team/
     description: "description: the team"
-  - title: "Contact"
-    url: https://sikic-lab.github.io/child00/contact/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+#   - title: "Contact"
+#     url: https://sikic-lab.github.io/child00/contact/
+
 
 # sidebar-sample:
 #   - title: "Parent Page A"
