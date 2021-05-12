@@ -149,20 +149,20 @@
 /*
    List view
    ========================================================================== */
-
-.list__item {
+.list__wrapper {
+  @include clearfix();
 	
   unbold {
 	  font-weight: normal;
 	  margin-top: 0;
 	  margin-bottom: 0;
 	}
-	
+}
+.list__item {
   .page__meta {
     margin: 0 0 4px;
     font-size: 0.6em;
   }
-
 
 }
 
