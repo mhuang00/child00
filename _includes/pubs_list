@@ -9,7 +9,7 @@
       <div class="archive__item">
         <div class="archive__item-body">
           {% if f.title %}
-          <unbold><h2 class="archive__item-title">{% if f.url %}<a href="{{ f.url }}" target="_blank" style="text-decoration:none;">{% endif %}{{ f.title }}</h2></unbold>
+          <unbold><h2 class="archive__item-title">{% if f.url %}<a href="{{ f.url }}" target="_blank" style="text-decoration:none;">{% endif %}{{ f.title }}</a></h2></unbold>
           {% endif %}
 
           {% if f.excerpt %}
