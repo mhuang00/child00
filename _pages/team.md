@@ -9,6 +9,7 @@ header:
 feature_row:
 - image_path: /assets/images/team_mile.jpg
   title: "Mile Šikić (GIS)"
+  email: ""
 - image_path: /assets/images/team_robert.jpg
   title: "Robert Vaser (GIS)"
   url: "https://github.com/rvaser/"
