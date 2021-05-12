@@ -28,8 +28,10 @@
               <unbold><name><div class="archive__item-excerpt">{{ f.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</div></name></unbold>
           {% endif %}
           
-          {% if f.email %}<name><a href="mailto: {{ f.email }}" class="fas fa-envelope-square"></a></name>{% endif %}
-          {% if f.twitter %}<name><a href="https://twitter.com/{{ f.twitter }}?ref_src=twsrc%5Etfw" class="fab fa-twitter-square"></a></name>{% endif %}
+          <center>
+          {% if f.email %}<a href="mailto: {{ f.email }}" class="fas fa-envelope-square"></a>{% endif %}
+          {% if f.twitter %}<a href="https://twitter.com/{{ f.twitter }}?ref_src=twsrc%5Etfw" class="fab fa-twitter-square"></a>{% endif %}
+          </center>
           
           {% comment %}
           {% if f.url %}
