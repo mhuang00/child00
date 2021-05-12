@@ -151,9 +151,11 @@ a {
 //     color: $link-color-hover;
     color: #000000;
     outline: 0;
+  }
+  
+  &:hover:hover {
     text-decoration: underline;
   }
-   
 }
 
 /* buttons */
