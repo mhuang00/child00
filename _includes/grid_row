@@ -26,7 +26,7 @@
 
           {% if f.excerpt %}
             <div class="archive__item-excerpt">
-              <h5>{{ f.excerpt | markdownify }}</h5>
+              <unbold><h5>{{ f.excerpt | markdownify }}</h5></unbold>
             </div>
           {% endif %}
            
