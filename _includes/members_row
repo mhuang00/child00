@@ -21,21 +21,15 @@
 
         <div class="archive__item-body">
           {% if f.title %}
-            <name><p class="archive__item-title">{% if f.url %}<a href="{{ f.url }}" target="_blank" style="text-decoration:none;">{% endif %}{{ f.title }}</a></p></name>\
+            <name><p class="archive__item-title">{% if f.url %}<a href="{{ f.url }}" target="_blank" style="text-decoration:none;">{% endif %}{{ f.title }}</a></p></name>
           {% endif %}
 
           {% if f.excerpt %}
               <unbold><name><div class="archive__item-excerpt">{{ f.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</div></name></unbold>
           {% endif %}
           
-          {% if f.email %}
-              <name><a href="mailto: {{ f.email }}" class="fas fa-envelope-square"></a></name>
-          {% endif %}
-          
-          {% if f.twitter %}
-              <name><a href="mailto: {{ f.twitter }}" class="fab fa-twitter-square"></a></name>
-          {% endif %}
-          
+          {% if f.email %}<name><a href="mailto: {{ f.email }}" class="fas fa-envelope-square"></a></name>{% endif %}
+          {% if f.twitter %}<name><a href="mailto: {{ f.twitter }}" class="fab fa-twitter-square"></a></name>{% endif %}
           
           {% comment %}
           {% if f.url %}
