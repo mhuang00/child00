@@ -4,6 +4,8 @@
   {% assign pubs_list = page.pubs_list %}
 {% endif %}
 
+<div class="list__wrapper">
+
   {% for f in pubs_list %}
     <div class="list__item{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item">
