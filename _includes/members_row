@@ -27,7 +27,12 @@
           {% if f.excerpt %}
               <unbold><name><div class="archive__item-excerpt">{{ f.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</div></name></unbold>
           {% endif %}
-           
+          
+          {% if f.email %}
+              <a href="mailto:myemailaddress@gmail.com"> <img src="images/navigation_icon/email.png" <i class="fas fa-envelope-square"></i>> </a>
+          {% endif %}
+          
+          
           {% comment %}
           {% if f.url %}
             <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
