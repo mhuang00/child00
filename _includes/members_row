@@ -29,7 +29,7 @@
           {% endif %}
           
           {% if f.email %}
-              <a href="mailto:myemailaddress@gmail.com"> <img src="images/navigation_icon/email.png" <i class="fas fa-envelope-square"></i>> </a>
+              <a href="mailto:myemailaddress@gmail.com"> <img src="images/navigation_icon/email.png" <class="fas fa-envelope-square">> </a>
           {% endif %}
           
           
