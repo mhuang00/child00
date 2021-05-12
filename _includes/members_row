@@ -29,7 +29,7 @@
           {% endif %}
           
           {% if f.email %}<name><a href="mailto: {{ f.email }}" class="fas fa-envelope-square"></a></name>{% endif %}
-          {% if f.twitter %}<name><a href="mailto: {{ f.twitter }}" class="fab fa-twitter-square"></a></name>{% endif %}
+          {% if f.twitter %}<name><a href="https://twitter.com/{{ f.twitter }}?ref_src=twsrc%5Etfw" class="fab fa-twitter-square"></a></name>{% endif %}
           
           {% comment %}
           {% if f.url %}
