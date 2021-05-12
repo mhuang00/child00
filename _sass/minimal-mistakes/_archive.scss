@@ -151,16 +151,19 @@
    ========================================================================== */
 
 .list__item {
-  .page__meta {
-    margin: 0 0 4px;
-    font-size: 0.6em;
-  }
-
+	
   unbold {
 	  font-weight: normal;
 	  margin-top: 0;
 	  margin-bottom: 0;
 	}
+	
+  .page__meta {
+    margin: 0 0 4px;
+    font-size: 0.6em;
+  }
+
+
 }
 
 /*
