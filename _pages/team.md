@@ -13,7 +13,7 @@ feature_row:
   twitter: "msikic"
 - image_path: /assets/images/team_robert.jpg
   title: "Robert Vaser (GIS)"
-  url: "https://github.com/rvaser/"
+  github: "https://github.com/rvaser/"
 - image_path: /assets/images/team_lovro.jpg
   title: "Lovro Vrček (GIS)"
 - image_path: /assets/images/team_dominik.png
