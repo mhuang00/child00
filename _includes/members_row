@@ -29,9 +29,9 @@
           {% endif %}
           
           <center>
-          {% if f.email %}<a href="mailto: {{ f.email }}" class="fas fa-envelope-square fa-lg"></a>{% endif %}
-          {% if f.twitter %}<a href="https://twitter.com/{{ f.twitter }}?ref_src=twsrc%5Etfw" target="_blank" style="text-decoration:none;" class="fab fa-twitter-square fa-lg"></a>{% endif %}
-          {% if f.github %}<a href="{{ f.github }}" target="_blank" style="text-decoration:none;" class="fab fa-github-square fa-lg"></a>{% endif %}
+          {% if f.email %}<a class="hover" href="mailto: {{ f.email }}" class="fas fa-envelope-square fa-lg"></a>{% endif %}
+          {% if f.twitter %}<a class="hover" href="https://twitter.com/{{ f.twitter }}?ref_src=twsrc%5Etfw" target="_blank" style="text-decoration:none;" class="fab fa-twitter-square fa-lg"></a>{% endif %}
+          {% if f.github %}<a class="hover" href="{{ f.github }}" target="_blank" style="text-decoration:none;" class="fab fa-github-square fa-lg"></a>{% endif %}
           </center>
           
           {% comment %}
