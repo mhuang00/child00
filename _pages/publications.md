@@ -7,6 +7,8 @@ header:
   overlay_image: /assets/images/homepage-banner.jpg
   
 pubs_list:
+  - title: R Vaser, M Šikić. "Time-and memory-efficient genome assembly with Raven" Nature Computational Science, 1-5. 2021
+    url: "https://www.nature.com/articles/s43588-021-00073-4"
   - title: Y Chen, N Davidson, YK Wan, H Patel, F Yao, HM Low, C Hendra et al. "A systematic benchmark of Nanopore long read RNA sequencing for transcript level analysis in human cell lines" bioRxiv. 2021
     url: "https://www.biorxiv.org/content/10.1101/2021.04.21.440736v1.abstract"
   - title: L Vrček, P Veličković, M Šikić. "A step towards neural genome assembly" arXiv preprint arXiv:2011.05013. 2020
