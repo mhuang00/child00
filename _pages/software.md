@@ -27,4 +27,7 @@ grid_row:
 - image_path:
   title: "SW#"
   excerpt: "SW# is a GPU accelerated tool for the calculation of the exact alignment of long sequences."
+- title: "Spoa"
+  url: "https://github.com/rvaser/spoa"
+  excerpt: "Spoa (SIMD POA) is a c++ implementation of the partial order alignment (POA) algorithm which is used to generate consensus sequences."
 ---
