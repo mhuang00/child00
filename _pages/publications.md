@@ -25,8 +25,6 @@ pubs_list:
     url: "https://arxiv.org/abs/1904.10353"
   - title: N Miculinić, M Ratković, M Šikić. "MinCall-MinION end2end convolutional deep learning basecaller" arXiv preprint arXiv:1904.10337	2. 2019
     url: "https://arxiv.org/abs/1904.10337"
-  - title: R Vaser. "Algorithms for de novo assembly of large genomes" University of Zagreb. Faculty of Electrical Engineering and Computing … 2019
-    url: "https://www.bib.irb.hr/1052813/download/1052813.Robert_Vaser_doktorat.pdf"
   - title: J Marić, I Sović, K Križanović, N Nagarajan, M Šikić. "Graphmap2-splice-aware RNA-seq mapper for long reads" bioRxiv, 720458	1. 2019
     url: "https://www.biorxiv.org/content/10.1101/720458v1.abstract"
   - title: K Križanović, A Echchiki, J Roux, M Šikić. "Evaluation of tools for long read RNA-seq splice-aware alignment" Bioinformatics 34 (5), 748-754. 2018
