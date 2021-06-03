@@ -1,7 +1,7 @@
 ---
 permalink: /career/
 title: "Career"
-layout: career
+layout: research
 
 header:
   overlay_image: /assets/images/homepage-banner.jpg
