@@ -15,8 +15,8 @@ main:
   - title: "Team"
     url: https://sikic-lab.github.io/child00/team/
     description: "description: the team"
-#   - title: "Contact"
-#     url: https://sikic-lab.github.io/child00/contact/
+  - title: "Career"
+    url: https://sikic-lab.github.io/child00/career/
 
 
 # sidebar-sample:
