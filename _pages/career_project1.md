@@ -1,5 +1,5 @@
 ---
-permalink: /career/project1/
+permalink: /project1/
 title: "Career"
 layout: career_project1
 
