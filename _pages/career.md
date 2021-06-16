@@ -1,6 +1,6 @@
 ---
-permalink: /career/
-title: "Career"
+permalink: /internships/
+title: "Internships"
 layout: career
 
 header:
