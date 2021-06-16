@@ -17,8 +17,6 @@ main:
     description: "description: the team"
   - title: "Career"
     url: https://sikic-lab.github.io/child00/career/
-  - title: "Career: Project 1"
-    url: https://sikic-lab.github.io/child00/career/project1/
 
 
 # sidebar-sample:
