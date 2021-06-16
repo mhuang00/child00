@@ -1,7 +1,7 @@
 ---
 permalink: /positions/
 title: "Open Positions"
-layout: posiitons
+layout: positions
 
 header:
   overlay_image: /assets/images/homepage-banner.jpg
