@@ -1,6 +1,6 @@
 ---
 permalink: /career/project1/
-title: "Career"
+title: "Career: Project 1"
 layout: career_project1
 
 header:
