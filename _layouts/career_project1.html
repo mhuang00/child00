@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
+
+<div id="main" role="main">
+  <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
+    {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">{% endif %}
+    {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
+    
+    <body>
+      <h2>Project Title 1: AI methods for improving DNA sequencing</h2>
+      <p>Genome sequencing assembling is one of the most essential tasks in genomics. High accuracy sequences help us find relevant information about the sequenced organism (i.e., human or virus) which is especially important for clinical use. 
+This project will focus on one, important sub-task of genome sequencing, named basecalling. As the DNA strand passes through the nanopore, a few nucleobases create a characteristic current disruption in the pore. A sequencing device continuously measures electrical current and stores it for sequence decoding. The process of sequence decoding from the measured current is called basecalling. 
+The focus of this project will be on developing high accuracy basecaller using deep learning methods. The student will get to know the practical approaches to data preparation and deep learning (such as attention networks and transformers). The solution will be implemented using Python and PyTorch library. The student will be encouraged to publish his application on GitHub as an open-source project.
+      </p>
+      <p>Required:</br>
+        -	Motivation:</br>
+        -	Willingness to learn by doing</br>
+        -	Basic programming skills</br>
+        -	Prior knowledge in biology is not required</br>
+        Preferable skills (not required):</br>
+        -	Python</br>
+        -	Basic knowledge in probability and statistics, linear algebra and information theory</br>
+        -	Knowledge of PyTorch or another DL framework</br>
+        -	Basic knowledge in the machine and deep learning methods</br>
+        </p>
+    </body>
