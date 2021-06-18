@@ -5,18 +5,18 @@ main:
 #   - title: "About"
 #     url: https://sikic-lab.github.io/about/
   - title: "Blog"
-    url: https://sikic-lab.github.io/child00/blog/  
+    url: https://sikic-lab.github.io/blog/  
   - title: "Research"
-    url: https://sikic-lab.github.io/child00/research/
+    url: https://sikic-lab.github.io/research/
   - title: "Publications"
-    url: https://sikic-lab.github.io/child00/publications/
+    url: https://sikic-lab.github.io/publications/
   - title: "Software"
-    url: https://sikic-lab.github.io/child00/software/  
+    url: https://sikic-lab.github.io/software/  
   - title: "Team"
-    url: https://sikic-lab.github.io/child00/team/
+    url: https://sikic-lab.github.io/team/
     description: "description: the team"
   - title: "Open Positions"
-    url: https://sikic-lab.github.io/child00/positions/
+    url: https://sikic-lab.github.io/positions/
 
 
 # sidebar-sample:
