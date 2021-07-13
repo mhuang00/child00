@@ -5,15 +5,13 @@ categories:
 tags:
 ---
 
-<h1><u>Internships</u></h1></br>
-
 <body>
   <h2>Project 1: AI methods for improving DNA sequencing</h2>
   <p>Genome sequencing assembling is one of the most essential tasks in genomics. High accuracy sequences help us find relevant information about the sequenced organism (i.e., human or virus) which is especially important for clinical use. 
 This project will focus on one, important sub-task of genome sequencing, named basecalling. As the DNA strand passes through the nanopore, a few nucleobases create a characteristic current disruption in the pore. A sequencing device continuously measures electrical current and stores it for sequence decoding. The process of sequence decoding from the measured current is called basecalling. 
 The focus of this project will be on developing high accuracy basecaller using deep learning methods. The student will get to know the practical approaches to data preparation and deep learning (such as attention networks and transformers). The solution will be implemented using Python and PyTorch library. The student will be encouraged to publish his application on GitHub as an open-source project.
     </p>
-    <p>Required:</br>
+    <p>Required:
       -	Motivation:</br>
       -	Willingness to learn by doing</br>
       -	Basic programming skills</br>
