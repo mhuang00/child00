@@ -16,6 +16,12 @@ layout: default
     {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
     
     <body>
+      
+      <aside>
+         <h3>Latest News</h3>
+         <p>Coming soon ...</p>
+      </aside>
+      
       <h2>About</h2>
         <p>We are a computational group with a focus on the development of new algorithms and AI models for the analysis of DNA and RNA sequencing data, and biomolecular structures. The group is located at <a href="https://www.a-star.edu.sg/gis" target="_blank" style="text-decoration:none;">Genome Institute of Singapore (GIS)</a>, A*STAR and the <a href="http://bioinfo.zesoi.fer.hr/index.php/en/" target="_blank" style="text-decoration:none;">Faculty of Electrical Engineering and Computing (FER)</a> at the University of Zagreb, Croatia.
       </br>
@@ -31,11 +37,6 @@ layout: default
 
     <h2>Areas of Research</h2> 
       {% include grid_row %}
-
-    <aside>
-       <h3>Latest News</h3>
-       <p>Coming soon ...</p>
-    </aside>
 
     </body>
   </article>
