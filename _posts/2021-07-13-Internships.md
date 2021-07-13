@@ -13,7 +13,7 @@ This project will focus on one, important sub-task of genome sequencing, named b
 The focus of this project will be on developing high accuracy basecaller using deep learning methods. The student will get to know the practical approaches to data preparation and deep learning (such as attention networks and transformers). The solution will be implemented using Python and PyTorch library. The student will be encouraged to publish his application on GitHub as an open-source project.<br /><br />
   
 Required:<br />
-  -	Motivation:<br />
+  -	Motivation<br />
   -	Willingness to learn by doing<br />
   -	Basic programming skills<br />
   -	Prior knowledge in biology is not required<br />
