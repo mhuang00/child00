@@ -22,7 +22,7 @@ Required:<br />
   -	Python<br />
   -	Basic knowledge in probability and statistics, linear algebra and information theory<br />
   -	Knowledge of PyTorch or another DL framework<br />
-  -	Basic knowledge in the machine and deep learning methods<br />
+  -	Basic knowledge in the machine and deep learning methods<br /><br />
 </body>
 
 <body>
@@ -41,7 +41,7 @@ The goal of this project would be to develop deep learning models for locating c
   -	Python<br />
   -	Basic knowledge in probability and statistics, linear algebra and information theory<br />
   -	Knowledge of PyTorch or another DL framework<br />
-  -	Basic knowledge in the machine and deep learning methods<br />
+  -	Basic knowledge in the machine and deep learning methods<br /><br />
   </body>
 
 <body>
@@ -60,7 +60,7 @@ The goal of this project would be to develop deep learning models for the detect
   -	Python<br />
   -	Basic knowledge in probability and statistics, linear algebra and information theory<br />
   -	Knowledge of PyTorch or another DL framework<br />
-  -	Basic knowledge in the machine and deep learning methods<br />
+  -	Basic knowledge in the machine and deep learning methods<br /><br />
 </body>
 
 <body>
@@ -78,7 +78,7 @@ Required:<br />
     <br />
   Preferable skills (not required):<br />
   -	Software engineering skill<br />
-  -	Parallel programing<br />
+  -	Parallel programming<br /><br />
 </body>
 
 <body>
@@ -97,7 +97,7 @@ Required:<br />
     -	Python<br />
     -	Basic knowledge in probability and statistics, linear algebra and information theory<br />
     -	Knowledge of PyTorch or another DL framework<br />
-    -	Basic knowledge in the machine and deep learning methods<br />
+    -	Basic knowledge in the machine and deep learning methods<br /><br />
     </body>
 
 <body>
@@ -117,7 +117,7 @@ Required:<br />
     -	Python<br />
     -	Basic knowledge in probability and statistics, linear algebra and information theory<br />
     -	Knowledge of PyTorch or another DL framework<br />
-    -	Basic knowledge in the machine and deep learning methods<br />
+    -	Basic knowledge in the machine and deep learning methods<br /><br />
     </body>
 
 <body>
@@ -137,5 +137,5 @@ Preferable skills (not required):<br />
 -	Python<br />
 -	Basic knowledge in probability and statistics, linear algebra and information theory<br />
 -	Knowledge of PyTorch or another DL framework<br />
--	Basic knowledge in the machine and deep learning methods<br />
+-	Basic knowledge in the machine and deep learning methods<br /><br />
 </body>
