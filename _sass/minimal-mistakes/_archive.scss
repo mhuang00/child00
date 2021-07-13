@@ -536,11 +536,11 @@
   .wide {
   .archive {
     @include breakpoint($large) {
-      padding-right: 0;
+      padding-right: 200px; //0;
     }
 
     @include breakpoint($x-large) {
-      padding-right: 0;
+      padding-right: 200px; //0;
     }
   }
 }
