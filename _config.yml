@@ -277,11 +277,11 @@ defaults:
     values:
       layout: single
       author_profile: false
-      read_time: true
-      comments: # true
-      share: true
-      related: true
-      show_time: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+      show_time: false
       classes: wide
   # _pages
   - scope:
