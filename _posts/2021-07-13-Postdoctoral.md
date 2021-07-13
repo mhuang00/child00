@@ -15,11 +15,11 @@ The   project   aims   to   develop   the   AI   method   to   detect   present 
 The project will start with recognising each microbe using a pattern matchingapproach, like those for rapid song recognition. These methods will be performedon either raw signal or basecalled sequence of nucleotides. We aim to use deeplearning   methods   to   find   a   concise   representation   of   each   known   microbegenome.<br /><br />
 The fast and accurate detection of microbes that cause infections disease canreduce unnecessary usage of antibiotics, speed up recovery and sometimes evensave lives. When clinicians do not have a clue about the possible pathogen, thecurrent methods can last days to identify the pathogen correctly.<br /><br />
 In this role, one will be part of a multi-disciplinary team consisting of computer sci<br />entists, biologists, and bioinformaticians. Duties include developing algorithmsand AI methods for the fast identification of present microbes.<br /><br />
-<body/>
-  
+
 Requirements:<br />
 - Phd in Computer Science, Bioinformatics, or a related discipline.<br />
 - Strong programming skills (ie. C++, Rust, Python)<br />
 - Active knowledge of PyTorch, Tensorflow or similar deep learning frameworks<br />
 - Excellent communication skills in written and spoken English<br />
 
+<body/>
