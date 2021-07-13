@@ -1,11 +1,7 @@
 # main links
 main:
-#   - title: "Guide URL"
-#     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-#   - title: "About"
-#     url: https://sikic-lab.github.io/about/
-  - title: "Blog"
-    url: https://sikic-lab.github.io/blog/  
+#   - title: "Blog"
+#     url: https://sikic-lab.github.io/blog/  
   - title: "Research"
     url: https://sikic-lab.github.io/research/
   - title: "Publications"
