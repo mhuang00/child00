@@ -1,5 +1,5 @@
 ---
-layout: home_positions
+layout: home
 permalink: /positions/
 title: "Open Positions"
 
