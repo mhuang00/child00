@@ -33,12 +33,12 @@ The focus of this project will be on developing high accuracy basecaller using d
     <p>One of the main challenges in genomics is the determination of genome sequence using sequenced DNA fragments called reads. The standard procedure is the construction of a graph from overlapping reads and finding a path through it. The path represents the final sequence. Since there are no exact algorithms, which could accomplish this problem in a reasonable amount of time, it is necessary to use heuristic approaches. An intern would try several deep learning methods and reinforcement learning algorithms for graph simplifications. 
 The goal of this project would be to develop deep learning models for locating critical patterns in graphs. The idea is learn in the space of algorithms. Initial models will be based on Message Passing Neural Networks. Still, at later stages of the project, other approaches will be tried out as well – such as reinforcement learning methods similar to those used in Alpha Zero and using NLP models (i.e. GPT3 or BERT) to learn genome sequence.
       </p>
-      <p>Required:</br>
-      -	Motivation</br>
-      -	Willingness to learn by doing</br>
-      -	Basic programming skills</br>
-      -	Prior knowledge in biology is not required</br>
-        </br>
+      <p>Required:\
+      -	Motivation\
+      -	Willingness to learn by doing\
+      -	Basic programming skills\
+      -	Prior knowledge in biology is not required\
+        \
       Preferable skills (not required):</br>
       -	Python</br>
       -	Basic knowledge in probability and statistics, linear algebra and information theory</br>
