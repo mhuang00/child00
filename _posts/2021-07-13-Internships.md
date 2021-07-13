@@ -12,7 +12,7 @@ This project will focus on one, important sub-task of genome sequencing, named b
   
 The focus of this project will be on developing high accuracy basecaller using deep learning methods. The student will get to know the practical approaches to data preparation and deep learning (such as attention networks and transformers). The solution will be implemented using Python and PyTorch library. The student will be encouraged to publish his application on GitHub as an open-source project.<br /><br />
   
-Required:<br />
+Requirements:<br />
   -	Motivation<br />
   -	Willingness to learn by doing<br />
   -	Basic programming skills<br />
@@ -31,7 +31,7 @@ One of the main challenges in genomics is the determination of genome sequence u
   
 The goal of this project would be to develop deep learning models for locating critical patterns in graphs. The idea is learn in the space of algorithms. Initial models will be based on Message Passing Neural Networks. Still, at later stages of the project, other approaches will be tried out as well – such as reinforcement learning methods similar to those used in Alpha Zero and using NLP models (i.e. GPT3 or BERT) to learn genome sequence.<br /><br />
 
-  Required:<br />
+  Requirements:<br />
   -	Motivation<br />
   -	Willingness to learn by doing<br />
   -	Basic programming skills<br />
@@ -50,7 +50,7 @@ Modification of DNA nucleotides is an important way to control the function of t
   
 The goal of this project would be to develop deep learning models for the detection of the modification from sequencing data. Initial models would be based on convolutional neural networks. Still, at later stages of the project, other approaches would be tried out as well – such as attention models that recently made a breakthrough in the field of natural language processing and proved to be more successful in language tasks then recurrent neural networks.<br /><br />
 
-  Required:<br />
+  Requirements:<br />
   -	Motivation<br />
   -	Willingness to learn by doing<br />
   -	Basic programming skills<br />
@@ -69,7 +69,7 @@ Genome assembly cannot be feasible without algorithms and methods integrated int
 
   The main goal of this thesis is to adapt Raven, a de novo assembler for long erroneous sequencing data, for diploid organisms sequenced. Raven is a tool produced by our group and now is one of the most popular de novo assemblers.<br /><br />
   
-Required:<br />
+Requirements:<br />
   -	Motivation<br />
   -	Willingness to learn by doing<br />
   -	Intermediate C/C++ skills<br />
@@ -87,7 +87,7 @@ Genome assembly is procedure for reconstructing genomes from short sequenced DNA
   
 A student will work on various deep learning models based on convolutional neural networks or attention mechanism. The project will start with an approach similar to those used in Google’s Deep Variant model.<br /><br />
   
-Required:<br />
+Requirements:<br />
     -	Motivation<br />
     -	Willingness to learn by doing<br />
     -	Basic programming skills<br />
@@ -107,7 +107,7 @@ Proteins may be viewed as sequences of amino acid residues. However they can als
   
 A student will work on various deep learning models based on sequences (ie. attention mechanism) and graphs (graph neural network) for detection of fragments of proteins suitable to be a subunit of a vaccine.<br /><br />
   
-Required:<br />
+Requirements:<br />
     -	Motivation<br />
     -	Willingness to learn by doing<br />
     -	Basic programming skills<br />
@@ -127,7 +127,7 @@ The goal of the project is the development of the AI method for the detection of
   
 The project aims to recognize each microbe present in the sample using a pattern matching approach like those for song recognition, ie Shazam. Instead of signal processing as in Shazam, we plan to use AI methods to find a good succinct representation of each known microbe genome. A student will work with reseachers on building new deep learning methods based on self-supervised learning and attention based architecture.<br /><br />
   
-Required:<br />
+Requirements:<br />
 -	Motivation<br />
 -	Willingness to learn by doing<br />
 -	Basic programming skills<br />
