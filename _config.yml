@@ -294,7 +294,7 @@ defaults:
   # _positions
   - scope:
       path: "_positions"
-      type: posts
+      type: positions
     values:
       layout: single
       author_profile: false
