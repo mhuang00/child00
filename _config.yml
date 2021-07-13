@@ -272,7 +272,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "_posts"
+      path: ""
       type: posts
     values:
       layout: single
@@ -293,7 +293,7 @@ defaults:
       classes: wide
   # _positions
   - scope:
-      path: "_positions"
+      path: ""
       type: positions
     values:
       layout: single
