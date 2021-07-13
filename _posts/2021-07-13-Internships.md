@@ -23,7 +23,7 @@ Required:<br />
   -	Knowledge of PyTorch or another DL framework<br />
   -	Basic knowledge in the machine and deep learning methods<br />
 </body>
-
+<br />
 <body>
     <h2>Project 2: Using NLP and graph neural networks to determine the DNA sequence</h2>
 One of the main challenges in genomics is the determination of genome sequence using sequenced DNA fragments called reads. The standard procedure is the construction of a graph from overlapping reads and finding a path through it. The path represents the final sequence. Since there are no exact algorithms, which could accomplish this problem in a reasonable amount of time, it is necessary to use heuristic approaches. An intern would try several deep learning methods and reinforcement learning algorithms for graph simplifications.<br />
@@ -41,7 +41,7 @@ The goal of this project would be to develop deep learning models for locating c
   -	Knowledge of PyTorch or another DL framework<br />
   -	Basic knowledge in the machine and deep learning methods<br />
   </body>
-
+<br />
 <body>
   <h2>Project 3: Deep Learning methods for epigenomics</h2>
 Modification of DNA nucleotides is an important way to control the function of the genome through the regulation of gene expression. DNA modifications contribute to diseases such as cancer where it is used as a biomarker, and it has been found to have influence on aging, demonstrating the value of epigenomics data to understand the profile of each individual patient.<br />
@@ -59,7 +59,7 @@ The goal of this project would be to develop deep learning models for the detect
   -	Knowledge of PyTorch or another DL framework<br />
   -	Basic knowledge in the machine and deep learning methods<br />
 </body>
-
+<br />
 <body>
   <h2>Project 4: Algorithms for determination of the content of the maternally and paternally-derived chromosomes</h2>
 Genome assembly cannot be feasible without algorithms and methods integrated into tools called de novo assemblers which reconstruct genomes from short sequenced DNA fragments in a manner similar to puzzle solving. The “power horse” of de novo assembly are algorithms on strings and graphs. The majority of de novo assemblers were designed on smaller genomes and work well on larger eukaryotic organisms, but most of them create haploid representations of the genome regardless of the ploidy (they collapse information from their parents). The separation of genetic material from each parent results in knowledge of the complete genotype – all variant forms of all genes. Therefore, different methods should be applied in the assembly process to achieve better reconstructions. The main goal of this thesis is to adapt Raven, a de novo assembler for long erroneous sequencing data, for diploid organisms sequenced. Raven is a tool produced by our group and now is one of the most popular de novo assemblers.<br /><br />
@@ -75,7 +75,7 @@ Required:<br />
   -	Software engineering skill<br />
   -	Parallel programing<br />
 </body>
-
+<br />
 <body>
   <h2>Project 5: Deep learning models for determination of the content of the maternally and paternally-derived chromosomes</h2>
 Genome assembly is procedure for reconstructing genomes from short sequenced DNA fragments in a manner similar to puzzle solving. The majority of de novo assemblers were designed on smaller genomes and work well on larger eukaryotic organisms, but most of them create haploid representations of the genome regardless of the ploidy (they collapse information from their parents). The separation of genetic material from each parent results in knowledge of the complete genotype – all variant forms of all genes. Therefore, different methods should be applied in the assembly process to achieve better reconstructions.<br />
@@ -93,7 +93,7 @@ Required:<br />
     -	Knowledge of PyTorch or another DL framework<br />
     -	Basic knowledge in the machine and deep learning methods<br />
     </body>
-
+<br />
 <body>
   <h2>Project 6: AI method for vaccine design</h2>
 AI vaccine design process can be seen as selecting good fragments of the virus proteins, then constructing them together into a final vaccine. A fragment with multiple merits can be selected as a subunit of the final vaccine. 
@@ -112,7 +112,7 @@ Required:<br />
     -	Knowledge of PyTorch or another DL framework<br />
     -	Basic knowledge in the machine and deep learning methods<br />
     </body>
-
+<br />
 <body>
   <h2>Project 7: Rapid diagnostic of infectious diseases using DNA sequencing and deep learning methods</h2>
 The fast and accurate detection of microbes which cause infections disease can reduce unnecessary usage of antibiotics, speed up recovery and sometime even save lives. The current methods, when we do not have a clue about possible pathogen, can last days. 
