@@ -6,6 +6,7 @@
 
 <div class="feature__wrapper">
 
+  <center>
   {% for f in members_row %}
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item">
@@ -18,6 +19,7 @@
             {% endif %}
           </div>
         {% endif %}
+  </center>
 
         <div class="archive__item-body">
           {% if f.title %}
