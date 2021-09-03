@@ -57,9 +57,9 @@ Job Title: Postdoctoral fellow<br /><br />
 
 The project aims to develop a new generation of mRNA based vaccines. The goal of the computational part of the project is to develop methods for predicting RNA tertiary structures and optimizing RNA stability.<br />
   <br />
-The   recent   breakthrough   of   AlphaFold2   in   accurately   predicting   protein structures   paves   the   way   for   applying   deep   learning   techniques   to   grand challenges in biology. However, it is critical to emphasize that learning RNAtertiary structures is significantly more challenging than protein structures. Only 15,000 chains in 5,000 RNA structures are present in the PDB, 30-fold less than the 150,000 training proteins. The lack of experimental training data requires usto: (1) augment the training set with new experimental data, (2) design more theoretically expressive learning techniques than AlphaFold2, which rely on a standard   supervised   learning   framework   and   a   classical   Transformer-based architecture.<br />
+The   recent   breakthrough   of   AlphaFold2   in   accurately   predicting   protein structures   paves   the   way   for   applying   deep   learning   techniques   to   grand challenges in biology. However, it is critical to emphasize that learning RNA tertiary structures is significantly more challenging than protein structures. Only 15,000 chains in 5,000 RNA structures are present in the PDB, 30-fold less than the 150,000 training proteins. The lack of experimental training data requires us to: (1) augment the training set with new experimental data, (2) design more theoretically expressive learning techniques than AlphaFold2, which rely on a standard   supervised   learning   framework   and   a   classical   Transformer-based architecture.<br />
   <br />
-In this role, one will be part of a multi-disciplinary team consisting of computerscientists, biologists, and bioinformaticians. Duties include primarily developingnew AI methods for RNA structure predictions.<br /><br />
+In this role, one will be part of a multi-disciplinary team consisting of computer scientists, biologists, and bioinformaticians. Duties include primarily developing new AI methods for RNA structure predictions.<br /><br />
 
 Requirements:<br />
 - PhD in Computer Science, Bioinformatics, or a related discipline.<br />
