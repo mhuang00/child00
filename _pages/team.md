@@ -27,5 +27,13 @@ feature_row:
   title: "Josip Maric (FER)"
 - image_path: /assets/images/team_filip.png
   title: "Filip Bosnić (FER)"
-
+  
+  
+feature_row:
+- image_path: /assets/images/team_kresimir.png
+  title: "Krešimir Križanović (FER)"
+- image_path: /assets/images/team_josip.png
+  title: "Josip Maric (FER)"
+- image_path: /assets/images/team_filip.png
+  title: "Filip Bosnić (FER)"
 ---
