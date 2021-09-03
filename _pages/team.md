@@ -29,7 +29,7 @@ members_row:
   title: "Filip Bosnić (FER)"
   
   
-feature_row:
+members_row2:
 - image_path: /assets/images/team_kresimir.png
   title: "Krešimir Križanović (FER)"
 - image_path: /assets/images/team_josip.png
