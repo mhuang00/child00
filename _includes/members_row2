@@ -1,7 +1,7 @@
 {% if include.id %}
   {% assign members_row2 = page[include.id] %}
 {% else %}
-  {% assign members_row2 = page.feature_row %}
+  {% assign members_row2 = page.members_row2 %}
 {% endif %}
 
 <div class="feature__wrapper">
