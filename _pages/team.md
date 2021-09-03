@@ -34,6 +34,6 @@ members_row2:
   title: "Ivan Sović (PacBio)"
 - image_path: /assets/images/team_nino_antulov_fantulin.png
   title: "Nino Antulov Fantulin (ETH)"
-- image_path: /assets/images/team_matija_piskorec.jpg
+- image_path: /assets/images/team_matija_piskorec_sq.jpg
   title: "Matija Piškorec (IRB)"
 ---
