@@ -23,3 +23,45 @@ Requirements:<br />
 - Excellent communication skills in written and spoken English<br />
 
 <body/>
+  
+  
+  
+<h2>Project 2</h2>
+<body>
+Job Title: Postdoctoral fellow<br />
+Grant end date :  31/07/2024<br />
+Contract Period : 01/08/2021 – 31/07/2024 (3 years)<br /><br />
+
+The project aims to develop a new method for T2T haplotype resolved de novoassembly. To achieve this goal, we plan to use algorithms and AI methods ongraphs   and   strings.   The   project   will   start   with   our   recently   developed   Ravenassembler https://github.com/lbcb-sci/raven .The recent successful reconstruction of haploid Chm13 human cell line provedthat it is possible to reconstruct a genome from telomere to telomere correctlyusing existing sequencing technologies.<br/><br/>
+ This project is part of an ambitious Asian Reference Genome project that aims tocorrectly   reconstruct   genomes   of   150   participants   (Chinese,   Malay   and   India),integrate   them   into   a   pangenome,   and   create   tools   to   use   them   in   theSingaporean National Precision Medicine program. In this role, one will be part of a multi-disciplinary team consisting of computerscientists, biologists, and bioinformaticians. Duties include primarily developingalgorithms on graphs and strings for de novo genome assembly. Still, the fellowwill also be encouraged to join the team in the development of AI methods.<br /><br />
+
+Requirements:<br />
+- Phd in Computer Science, Bioinformatics, or a related discipline.<br />
+- Strong programming skills (ie. C++, Rust, Python)<br />
+- Deep knowledge of Algorithms and Data Structures<br />
+- Excellent communication skills in written and spoken English<br />
+<br />
+ Optional:<br />
+- Knowledge of modern supervised, unsupervised or reinforcement learning methods<br />
+- Active knowledge of PyTorch, Tensorflow or similar deep learning frameworks<br />
+<body/>
+  
+
+  
+<h2>Project 3</h2>
+<body>
+Job Title: Postdoctoral fellow<br />
+Grant end date :  31/07/2024<br />
+Contract Period : 01/08/2021 – 31/07/2024 (3 years)<br /><br />
+
+The project aims to develop a new generation of mRNA based vaccines. The goal of the computational part of the project is to develop methods for predicting RNA tertiary structures and optimizing RNA stability.<br />
+The   recent   breakthrough   of   AlphaFold2   in   accurately   predicting   proteinstructures   paves   the   way   for   applying   deep   learning   techniques   to   grandchallenges in biology. However, it is critical to emphasize that learning RNAtertiary structures is significantly more challenging than protein structures. Only 15,000 chains in 5,000 RNA structures are present in the PDB, 30-fold less thanthe 150,000 training proteins. The lack of experimental training data requires usto: (1) augment the training set with new experimental data, (2) design moretheoretically expressive learning techniques than AlphaFold2, which rely on astandard   supervised   learning   framework   and   a   classical   Transformer-basedarchitecture.<br />
+In this role, one will be part of a multi-disciplinary team consisting of computerscientists, biologists, and bioinformaticians. Duties include primarily developingnew AI methods for RNA structure predictions.<br /><br />
+
+Requirements:<br />
+- PhD in Computer Science, Bioinformatics, or a related discipline.<br />
+- Strong programming skills (ie. C++, Rust, Python)<br />
+- Knowledge of modern supervised, unsupervised or reinforcement learning methods<br />
+- Active knowledge of PyTorch, Tensorflow or similar deep learning frameworks<br />
+- Excellent communication skills in written and spoken English<br />
+<body/>
