@@ -30,10 +30,10 @@ members_row:
   
   
 members_row2:
-- image_path: /assets/images/team_kresimir.png
-  title: "Krešimir Križanović (FER)"
-- image_path: /assets/images/team_josip.png
-  title: "Josip Maric (FER)"
-- image_path: /assets/images/team_filip.png
-  title: "Filip Bosnić (FER)"
+- image_path: /assets/images/team_ivan_sovic.jfif
+  title: "Ivan Sović (PacBio)"
+- image_path: /assets/images/team_nino_antulov_fantulin.png
+  title: "Nino Antulov Fantulin (ETH)"
+- image_path: /assets/images/team_matija_piskorec.jpg
+  title: "Matija Piškorec (IRB)"
 ---
