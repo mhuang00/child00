@@ -29,8 +29,6 @@ Requirements:<br />
 <h2>Project 2</h2>
 <body>
 Job Title: Postdoctoral fellow<br />
-Grant end date :  31/07/2024<br />
-Contract Period : 01/08/2021 – 31/07/2024 (3 years)<br /><br />
 
 The project aims to develop a new method for T2T haplotype resolved de novoassembly. To achieve this goal, we plan to use algorithms and AI methods ongraphs   and   strings.   The   project   will   start   with   our   recently   developed   Raven assembler https://github.com/lbcb-sci/raven.<br/>
   <br/>
@@ -56,8 +54,6 @@ Requirements:<br />
 <h2>Project 3</h2>
 <body>
 Job Title: Postdoctoral fellow<br />
-Grant end date :  31/07/2024<br />
-Contract Period : 01/08/2021 – 31/07/2024 (3 years)<br /><br />
 
 The project aims to develop a new generation of mRNA based vaccines. The goal of the computational part of the project is to develop methods for predicting RNA tertiary structures and optimizing RNA stability.<br />
   <br />
