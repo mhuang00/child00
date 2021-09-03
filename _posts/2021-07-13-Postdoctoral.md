@@ -11,9 +11,9 @@ Job Title: Postdoctoral fellow<br />
 Grant end date :  31/07/2024<br />
 Contract Period : 01/08/2021 – 31/07/2024 (3 years)<br /><br />
 
-The   project   aims   to   develop   the   AI   method   to   detect   present   microbes   in   asample   (ie.   throat-swab,   urine,   blood)   sequenced   using nanopore   technology. Nanopore sequencers read DNA/RNA fragments while they are passing through a tiny pore. Passage of nucleotides through pore results in a signal which is in a downstream process converted to the sequence of nucleotides.<br /><br />
-The project will start with recognising each microbe using a pattern matching approach, like those for rapid song recognition. These methods will be performed on either raw signal or basecalled sequence of nucleotides. We aim to use deep learning   methods   to   find   a   concise   representation   of   each   known   microbegenome.<br /><br />
-The fast and accurate detection of microbes that cause infections disease canreduce unnecessary usage of antibiotics, speed up recovery and sometimes even save lives. When clinicians do not have a clue about the possible pathogen, the current methods can last days to identify the pathogen correctly.<br /><br />
+The   project   aims   to   develop   the   AI   method   to   detect   present   microbes   in   a sample   (ie.   throat-swab,   urine,   blood)   sequenced   using nanopore   technology. Nanopore sequencers read DNA/RNA fragments while they are passing through a tiny pore. Passage of nucleotides through pore results in a signal which is in a downstream process converted to the sequence of nucleotides.<br /><br />
+The project will start with recognising each microbe using a pattern matching approach, like those for rapid song recognition. These methods will be performed on either raw signal or basecalled sequence of nucleotides. We aim to use deep learning   methods   to   find   a   concise   representation   of   each   known   microbe genome.<br /><br />
+The fast and accurate detection of microbes that cause infections disease can reduce unnecessary usage of antibiotics, speed up recovery and sometimes even save lives. When clinicians do not have a clue about the possible pathogen, the current methods can last days to identify the pathogen correctly.<br /><br />
 In this role, one will be part of a multi-disciplinary team consisting of computer scientists, biologists, and bioinformaticians. Duties include developing algorithms and AI methods for the fast identification of present microbes.<br /><br />
 
 Requirements:<br />
