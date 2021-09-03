@@ -30,7 +30,7 @@ Requirements:<br />
 <body>
 Job Title: Postdoctoral fellow<br /><br />
 
-The project aims to develop a new method for T2T haplotype resolved de novo assembly. To achieve this goal, we plan to use algorithms and AI methods ongraphs   and   strings.   The   project   will   start   with   our   recently   developed   Raven assembler <a href="https://github.com/lbcb-sci/raven">https://github.com/lbcb-sci/raven.</a><br/>
+The project aims to develop a new method for T2T haplotype resolved de novo assembly. To achieve this goal, we plan to use algorithms and AI methods ongraphs   and   strings.   The   project   will   start   with   our   recently   developed   Raven assembler <a href="https://github.com/lbcb-sci/raven" target="_blank">https://github.com/lbcb-sci/raven.</a><br/>
   <br/>
 The recent successful reconstruction of haploid Chm13 human cell line proved that it is possible to reconstruct a genome from telomere to telomere correctly using existing sequencing technologies.<br/>
   <br/>
