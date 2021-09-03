@@ -32,8 +32,13 @@ Job Title: Postdoctoral fellow<br />
 Grant end date :  31/07/2024<br />
 Contract Period : 01/08/2021 – 31/07/2024 (3 years)<br /><br />
 
-The project aims to develop a new method for T2T haplotype resolved de novoassembly. To achieve this goal, we plan to use algorithms and AI methods ongraphs   and   strings.   The   project   will   start   with   our   recently   developed   Raven assembler https://github.com/lbcb-sci/raven .The recent successful reconstruction of haploid Chm13 human cell line provedthat it is possible to reconstruct a genome from telomere to telomere correctlyusing existing sequencing technologies.<br/><br/>
- This project is part of an ambitious Asian Reference Genome project that aims tocorrectly   reconstruct   genomes   of   150   participants   (Chinese,   Malay   and   India),integrate   them   into   a   pangenome,   and   create   tools   to   use   them   in   theSingaporean National Precision Medicine program. In this role, one will be part of a multi-disciplinary team consisting of computerscientists, biologists, and bioinformaticians. Duties include primarily developingalgorithms on graphs and strings for de novo genome assembly. Still, the fellowwill also be encouraged to join the team in the development of AI methods.<br /><br />
+The project aims to develop a new method for T2T haplotype resolved de novoassembly. To achieve this goal, we plan to use algorithms and AI methods ongraphs   and   strings.   The   project   will   start   with   our   recently   developed   Raven assembler https://github.com/lbcb-sci/raven.<br/>
+  <br/>
+The recent successful reconstruction of haploid Chm13 human cell line provedthat it is possible to reconstruct a genome from telomere to telomere correctly using existing sequencing technologies.<br/>
+  <br/>
+This project is part of an ambitious Asian Reference Genome project that aims to correctly   reconstruct   genomes   of   150   participants   (Chinese,   Malay   and   India), integrate   them   into   a   pangenome,   and   create   tools   to   use   them   in   the Singaporean National Precision Medicine program.<br />
+  <br />
+In this role, one will be part of a multi-disciplinary team consisting of computer scientists, biologists, and bioinformaticians. Duties include primarily developing algorithms on graphs and strings for de novo genome assembly. Still, the fellowwill also be encouraged to join the team in the development of AI methods.<br /><br />
 
 Requirements:<br />
 - Phd in Computer Science, Bioinformatics, or a related discipline.<br />
