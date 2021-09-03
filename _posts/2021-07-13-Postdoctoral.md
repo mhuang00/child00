@@ -23,7 +23,7 @@ Requirements:<br />
 - Excellent communication skills in written and spoken English<br />
 
 <body/>
-  
+  <br />
   
   
 <h2>Project 2</h2>
@@ -50,7 +50,7 @@ Requirements:<br />
 - Knowledge of modern supervised, unsupervised or reinforcement learning methods<br />
 - Active knowledge of PyTorch, Tensorflow or similar deep learning frameworks<br />
 <body/>
-  
+  <br />
 
   
 <h2>Project 3</h2>
