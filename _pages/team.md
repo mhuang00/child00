@@ -26,8 +26,15 @@ members_row:
 - image_path: /assets/images/team_martin.png
   title: "Martin Schmitz (GIS)"
   linkedin: "https://www.linkedin.com/in/martin-schmitz-4586421ab/"
-  
-  
+- image_path: /assets/images/team_lin_dehui.png
+  title: "Lin Dehui (GIS)"   
+- image_path: /assets/images/team_josipa_lipovac.png
+  title: "Josipa Lipovac (FER)" 
+- image_path: /assets/images/team_andrej_dolvac.png
+  title: "Andrej Dolvač (GIS)"
+- image_path: /assets/images/team_anil_kurkcu.png
+  title: "Anil Kurkcu (GIS)"
+
 members_row2:
 - image_path: /assets/images/team_robert.jpg
   title: "Robert Vaser (GIS)"
