@@ -14,22 +14,28 @@ members_row:
   linkedin: "https://www.linkedin.com/in/milesikic/"
 - image_path: /assets/images/team_lovro.jpg
   title: "Lovro Vrček (GIS)"
+  twitter: "lovrovrcek"
+  github: https://github.com/lvrcek/
+  linkedin: https://www.linkedin.com/in/lovro-vr%C4%8Dek/
 - image_path: /assets/images/team_dominik.png
   title: "Dominik Stanojević (GIS)"
 - image_path: /assets/images/team_kresimir.png
   title: "Krešimir Križanović (FER)"
 - image_path: /assets/images/team_filip.png
   title: "Filip Bosnić (FER)"
+- image_path: /assets/images/team_martin.png
+  title: "Martin Schmitz (GIS)"
+  linkedin: "https://www.linkedin.com/in/martin-schmitz-4586421ab/"
   
   
 members_row2:
 - image_path: /assets/images/team_robert.jpg
   title: "Robert Vaser (GIS)"
+  github: "https://github.com/rvaser/"
 - image_path: /assets/images/team_josip.png
   title: "Josip Maric (FER)"
 - image_path: /assets/images/team_megan.png
   title: "Megan Huang (GIS)"
-  github: "https://github.com/rvaser/"
 - image_path: /assets/images/team_ivan_sovic.jfif
   title: "Ivan Sović (PacBio)"
 - image_path: /assets/images/team_nino_antulov_fantulin.png
