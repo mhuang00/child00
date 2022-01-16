@@ -26,13 +26,13 @@ members_row:
 - image_path: /assets/images/team_martin.png
   title: "Martin Schmitz (GIS)"
   linkedin: "https://www.linkedin.com/in/martin-schmitz-4586421ab/"
-- image_path: /assets/images/team_lin_dehui.png
+- image_path: /assets/images/team_lin_dehui.jpg
   title: "Lin Dehui (GIS)"   
-- image_path: /assets/images/team_josipa_lipovac.png
+- image_path: /assets/images/team_josipa_lipovac.jpg
   title: "Josipa Lipovac (FER)" 
-- image_path: /assets/images/team_andrej_dolvac.png
+- image_path: /assets/images/team_andrej_dolvac.jpg
   title: "Andrej Dolvač (GIS)"
-- image_path: /assets/images/team_anil_kurkcu.png
+- image_path: /assets/images/team_anil_kurkcu.jpg
   title: "Anil Kurkcu (GIS)"
 
 members_row2:
