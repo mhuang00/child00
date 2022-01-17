@@ -36,6 +36,8 @@ members_row:
   title: "Anil Kurkcu (GIS)"
 - image_path: /assets/images/team_rafael.jpg
   title: "Rafael Josip Penić (FER)"
+- image_path: /assets/images/team_sara.jpg
+  title: "Sara Bakić (GIS)"  
   
 members_row2:
 - image_path: /assets/images/team_robert.jpg
