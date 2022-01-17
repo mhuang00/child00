@@ -30,7 +30,7 @@ members_row:
   title: "Lin Dehui (GIS)"   
 - image_path: /assets/images/team_josipa_lipovac.jpeg
   title: "Josipa Lipovac (FER)" 
-- image_path: /assets/images/team_andrej_dolmac.jpeg
+- image_path: /assets/images/team_andrej_dolmac.jpg
   title: "Andrej Dolmač (GIS)"
 - image_path: /assets/images/team_anil_kurkcu.jpg
   title: "Anil Kurkcu (GIS)"
