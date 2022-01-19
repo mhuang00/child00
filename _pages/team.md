@@ -37,7 +37,11 @@ members_row:
 - image_path: /assets/images/team_rafael.jpg
   title: "Rafael Josip Penić (FER)"
 - image_path: /assets/images/team_sara.jpeg
-  title: "Sara Bakić (GIS)"  
+  title: "Sara Bakić (GIS)"
+- image_path: /assets/images//team_kresimir_f.jpg
+  title: "Krešimir Friganović (FER)"
+- image_path: /assets/images/team_manoj.JPEG
+  title: "Manoj Itharajula (GIS)"
   
 members_row2:
 - image_path: /assets/images/team_robert.jpg
