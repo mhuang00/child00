@@ -5,7 +5,6 @@ categories:
 tags:
 ---
 
-<h2>Project 1</h2>
 <body>
 Job Title: Postdoctoral fellow/ Scientific programmer <br />
 Contract Period : 01/04/2022 – 31/03/2025 (3 years)<br /><br />
