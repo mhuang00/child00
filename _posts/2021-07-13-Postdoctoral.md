@@ -9,7 +9,7 @@ tags:
 <body>
 Job Title: Postdoctoral fellow/ Scientific programmer <br />
 Contract Period : 01/04/2022 – 31/03/2025 (3 years)<br /><br />
-<h2>Job duties & Responsibilities:</h2> <br />
+Job duties & Responsibilities: <br />
   
 The project aims to develop a new method for T2T haplotype resolved de novo assembly. To achieve this goal, we plan to use algorithms and AI methods on graphs and strings. The project will start with our recently developed Raven assembler https://github.com/lbcb-sci/raven .<br /><br />
  
