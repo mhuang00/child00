@@ -39,7 +39,7 @@ members_row:
 - image_path: /assets/images/team_sara.jpeg
   title: "Sara Bakić (GIS)"
 - image_path: /assets/images//team_kresimir_f.jpg
-  title: "Krešimir Friganović (FER)"
+  title: "Krešimir Friganović (GIS)"
 - image_path: /assets/images/team_manoj.JPEG
   title: "Manoj Itharajula (GIS)"
   
