@@ -42,7 +42,7 @@ members_row:
   title: "Krešimir Friganović (GIS)"
 - image_path: /assets/images/team_manoj.JPEG
   title: "Manoj Itharajula (GIS)"
-  - image_path: /assets/images/team_ffilip_tomas.jpg
+- image_path: /assets/images/team_ffilip_tomas.jpg
   title: "Filip Tomas (FER)"
   
 members_row2:
