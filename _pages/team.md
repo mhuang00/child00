@@ -42,10 +42,12 @@ members_row:
   title: "Krešimir Friganović (GIS)"
 - image_path: /assets/images/team_manoj.JPEG
   title: "Manoj Itharajula (GIS)"
+  - image_path: /assets/images/team_ffilip_tomas.jpg
+  title: "Filip Tomas (FER)"
   
 members_row2:
 - image_path: /assets/images/team_robert.jpg
-  title: "Robert Vaser (GIS)"
+  title: "Robert Vaser (PacBio)"
   github: "https://github.com/rvaser/"
 - image_path: /assets/images/team_josip.png
   title: "Josip Maric (FER)"
