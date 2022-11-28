@@ -9,7 +9,7 @@ tags:
 Job Title: Postdoctoral fellow <br />
 Contract Period : 01/01/2023 – 31/12/2025 (3 years) <br /><br />
   
-**Job duties & Responsibilities:** <br />
+<b>Job duties & Responsibilities:</b> <br />
 
 The project aims to develop a new generation of RNA therapeutics. The goal of the computational part of the project is to develop methods for predicting RNA tertiary structures and optimizing RNA stability. <br /><br />
 
@@ -17,7 +17,7 @@ The recent breakthrough of AlphaFold2 in accurately predicting protein structure
 
 In this role, one will be part of a multi-disciplinary team consisting of computer scientists, biologists, and bioinformaticians. Duties include primarily developing new AI methods for RNA structure predictions. <br /><br />
 
-**Requirements:**
+<b>Requirements:</b>
  
 - PhD in Computer Science, Math, or a related discipline.
 - Strong programming skills (i.e. C/C++, Rust, Python)
