@@ -8,6 +8,7 @@ tags:
 <body>
 Job Title: Postdoctoral fellow <br />
 Contract Period : 01/01/2023 – 31/12/2025 (3 years) <br /><br />
+  
 **Job duties & Responsibilities:** <br />
 
 The project aims to develop a new generation of RNA therapeutics. The goal of the computational part of the project is to develop methods for predicting RNA tertiary structures and optimizing RNA stability. <br /><br />
