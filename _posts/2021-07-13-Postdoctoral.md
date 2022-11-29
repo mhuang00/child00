@@ -19,11 +19,11 @@ In this role, one will be part of a multi-disciplinary team consisting of comput
 
 <b>Requirements:</b> <br />
 <ul>  
-  <li>PhD in Computer Science, Math, or a related discipline<\li>
-  <li>Strong programming skills (i.e. C/C++, Rust, Python)<\li>
-  <li>Knowledge of modern supervised, unsupervised and/or reinforcement learning methods<\li>
-  <li>Active knowledge of PyTorch, Tensorflow or similar deep-learning frameworks<\li>
-  <li>Excellent communication skills in written and spoken English<\li>
+  <li>PhD in Computer Science, Math, or a related discipline
+  <li>Strong programming skills (i.e. C/C++, Rust, Python)
+  <li>Knowledge of modern supervised, unsupervised and/or reinforcement learning methods
+  <li>Active knowledge of PyTorch, Tensorflow or similar deep-learning frameworks
+  <li>Excellent communication skills in written and spoken English
 </ul>
 
 
