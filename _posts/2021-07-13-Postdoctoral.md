@@ -18,13 +18,11 @@ The recent breakthrough of AlphaFold2 in accurately predicting protein structure
 In this role, one will be part of a multi-disciplinary team consisting of computer scientists, biologists, and bioinformaticians. Duties include primarily developing new AI methods for RNA structure predictions. <br /><br />
 
 <b>Requirements:</b> <br />
- * PhD in Computer Science, Math, or a related discipline
- * Strong programming skills (i.e. C/C++, Rust, Python)
-  - Knowledge of modern supervised, unsupervised and/or reinforcement learning methods
-  - Active knowledge of PyTorch, Tensorflow or similar deep-learning frameworks
-  - Excellent communication skills in written and spoken English
-
-
+ - PhD in Computer Science, Math, or a related discipline
+ - Strong programming skills (i.e. C/C++, Rust, Python)
+ - Knowledge of modern supervised, unsupervised and/or reinforcement learning methods
+ - Active knowledge of PyTorch, Tensorflow or similar deep-learning frameworks
+ - Excellent communication skills in written and spoken English
 <body/>
   <br /> 
   
