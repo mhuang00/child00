@@ -21,8 +21,6 @@ members_row:
   title: "Dominik Stanojević (GIS)"
 - image_path: /assets/images/team_kresimir.png
   title: "Krešimir Križanović (FER)"
-- image_path: /assets/images/team_filip.png
-  title: "Filip Bosnić (FER)"
 - image_path: /assets/images/team_martin.png
   title: "Martin Schmitz (GIS)"
   linkedin: "https://www.linkedin.com/in/martin-schmitz-4586421ab/"
@@ -59,4 +57,6 @@ members_row2:
   title: "Nino Antulov Fantulin (ETH)"
 - image_path: /assets/images/team_matija_piskorec_sq.jpg
   title: "Matija Piškorec (IRB)"
+- image_path: /assets/images/team_filip.png
+  title: "Filip Bosnić (FER)"
 ---
