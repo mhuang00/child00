@@ -7,7 +7,7 @@ tags:
 
 <body>
   
-We offer a variety of exciting projects for possible interns. 
+We offer a variety of exciting projects for possible interns. <br />
 Interns can apply for [SIGPA](https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga) to get a monthly funding of 2000 SGD. .<br /><br />
   
  <h2>Project 1: AI methods for improving DNA sequencing</h2>
