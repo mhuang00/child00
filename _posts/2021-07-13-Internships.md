@@ -5,12 +5,13 @@ categories:
 tags:
 ---
 
-<body>
+
   
 We offer a variety of exciting projects for possible interns. <br />
-Interns can apply for [SIGPA](https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga) to get a monthly funding of 2000 SGD. .<br /><br />
-  
- <h2>Project 1: AI methods for improving DNA sequencing</h2>
+Interns can apply for [SIGPA](https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga) to get a monthly funding of 2000 SGD.<br /><br />
+
+<body> 
+<h2>Project 1: AI methods for improving DNA sequencing</h2>
 Genome sequencing assembling is one of the most essential tasks in genomics. High accuracy sequences help us find relevant information about the sequenced organism (i.e., human or virus) which is especially important for clinical use. 
 This project will focus on one, important sub-task of genome sequencing, named basecalling. As the DNA strand passes through the nanopore, a few nucleobases create a characteristic current disruption in the pore. A sequencing device continuously measures electrical current and stores it for sequence decoding. The process of sequence decoding from the measured current is called basecalling.<br /><br />
   
