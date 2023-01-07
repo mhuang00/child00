@@ -6,14 +6,24 @@ tags:
 ---
 
 <body>
-Ph.D. Positions <br />
-Contract Period : 01/01/2023 – 31/12/2025 (3 years) <br /><br />
+<b>Ph.D. Positions (4 years period) </b> <br />
+Possible research Topics: <br /><br />
+- AI in genomics (de novo assembly) <br />
+- AI in structural biology (drug design, RNA therapeutics) <br />
+- AI in metagenomics <br />
+- AI in epigenomic <br />
+
+ We usually offer our Ph.D. positions in coorperation with NUS (or possibly NTU) under the following scholarships: <br />
+- [SINGA](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa)<br />
+- [ARAP](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/a-star-research-attachment-programme)<br /><br />
+ 
+Please refer to the sites of the scholarships to see if you are eligible and dont hesitate to reach out to us, if you are interested in a Ph.D. position in our lab.<br /><br />
   
-<b>Job duties & Responsibilities:</b> <br />
-
-Some topics
-
-<b>Requirements:</b> <br />
-- some requirements <br />
+Our current collaborationg professors at NUS are:<br />
+[Xavier Bresson](https://graphdeeplearning.github.io/authors/xavier-bresson/)<br />
+[Bryan Hooi](https://bhooi.github.io/)<br />
+[Kenji Kawaguchi](https://www.comp.nus.edu.sg/cs/people/kenji/)<br />
+  
+ 
 <body/>
 <br /> 
