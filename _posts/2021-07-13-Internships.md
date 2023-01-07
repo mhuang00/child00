@@ -6,7 +6,8 @@ tags:
 ---
 
 We offer a variety of exciting projects for possible interns. <br />
-Interns can apply for [SIGPA](https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga) to get a monthly funding of 2000 SGD.<br /><br />
+Interns can apply for [SIGPA](https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga) to get a monthly funding of 2000 SGD. <br />
+You can find the list possible internship projects below. <br />
 <body> 
 <h2>Project 1: AI methods for improving DNA sequencing</h2>
 Genome sequencing assembling is one of the most essential tasks in genomics. High accuracy sequences help us find relevant information about the sequenced organism (i.e., human or virus) which is especially important for clinical use. 
