@@ -14,21 +14,22 @@ This project will focus on one, important sub-task of genome sequencing, named b
   
 The focus of this project will be on developing high accuracy basecaller using deep learning methods. The student will get to know the practical approaches to data preparation and deep learning (such as attention networks and transformers). The solution will be implemented using Python and PyTorch library. The student will be encouraged to publish his application on GitHub as an open-source project.<br /><br />
   
-Requirements:<br />
-  -	Motivation<br />
-  -	Willingness to learn by doing<br />
-  -	Basic programming skills<br />
-  -	Prior knowledge in biology is not required<br />
-  <br />
-  Preferable skills (not required):<br />
-  -	Python<br />
-  -	Basic knowledge in probability and statistics, linear algebra and information theory<br />
-  -	Knowledge of PyTorch or another DL framework<br />
-  -	Basic knowledge in the machine and deep learning methods<br /><br />
+Requirements:
+<ul>
+<li> Motivation </li> 
+<li> Willingness to learn by doing </li> 
+<li> Basic programming skills </li> 
+<li> Prior knowledge in biology is not required </li> 
+</ul>
+Preferable skills (not required):
+<li> Python </li> 
+<li> Basic knowledge in probability and statistics, linear algebra and information theory </li> 
+<li> Knowledge of PyTorch or another DL framework </li> 
+<li> Basic knowledge in the machine and deep learning methods </li> 
 </body>
 
 <body>
-    <h2>Project 2: Using NLP and graph neural networks to determine the DNA sequence</h2>
+<h2>Project 2: Using NLP and graph neural networks to determine the DNA sequence</h2>
 One of the main challenges in genomics is the determination of genome sequence using sequenced DNA fragments called reads. The standard procedure is the construction of a graph from overlapping reads and finding a path through it. The path represents the final sequence. Since there are no exact algorithms, which could accomplish this problem in a reasonable amount of time, it is necessary to use heuristic approaches. An intern would try several deep learning methods and reinforcement learning algorithms for graph simplifications.<br /><br />
   
 The goal of this project would be to develop deep learning models for locating critical patterns in graphs. The idea is learn in the space of algorithms. Initial models will be based on Message Passing Neural Networks. Still, at later stages of the project, other approaches will be tried out as well – such as reinforcement learning methods similar to those used in Alpha Zero and using NLP models (i.e. GPT3 or BERT) to learn genome sequence.<br /><br />
