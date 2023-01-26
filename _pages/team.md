@@ -38,6 +38,7 @@ members_row:
   title: "Sara Bakić (GIS)"
 - image_path: /assets/images//team_kresimir_f.jpg
   title: "Krešimir Friganović (GIS)"
+  linkedin: https://www.linkedin.com/in/kre%C5%A1imir-friganovi%C4%87-65b479102
 - image_path: /assets/images/team_manoj.JPEG
   title: "Manoj Itharajula (GIS)"
 - image_path: /assets/images/team_ffilip_tomas.jpg
