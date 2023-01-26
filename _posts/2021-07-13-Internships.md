@@ -4,29 +4,31 @@ date: 2021-07-13T15:34:30-04:00
 categories:
 tags:
 ---
-
-<body>
-  <h2>Project 1: AI methods for improving DNA sequencing</h2>
+We offer a variety of exciting projects for possible interns.
+Interns can apply for [SIGPA](https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga) to get a monthly funding of 2000 SGD.
+You can find the list possible internship projects below. <br />
+<body> 
+<h2>Project 1: AI methods for improving DNA sequencing</h2>
 Genome sequencing assembling is one of the most essential tasks in genomics. High accuracy sequences help us find relevant information about the sequenced organism (i.e., human or virus) which is especially important for clinical use. 
 This project will focus on one, important sub-task of genome sequencing, named basecalling. As the DNA strand passes through the nanopore, a few nucleobases create a characteristic current disruption in the pore. A sequencing device continuously measures electrical current and stores it for sequence decoding. The process of sequence decoding from the measured current is called basecalling.<br /><br />
   
 The focus of this project will be on developing high accuracy basecaller using deep learning methods. The student will get to know the practical approaches to data preparation and deep learning (such as attention networks and transformers). The solution will be implemented using Python and PyTorch library. The student will be encouraged to publish his application on GitHub as an open-source project.<br /><br />
   
 Requirements:<br />
-  -	Motivation<br />
-  -	Willingness to learn by doing<br />
-  -	Basic programming skills<br />
-  -	Prior knowledge in biology is not required<br />
-  <br />
-  Preferable skills (not required):<br />
-  -	Python<br />
-  -	Basic knowledge in probability and statistics, linear algebra and information theory<br />
-  -	Knowledge of PyTorch or another DL framework<br />
-  -	Basic knowledge in the machine and deep learning methods<br /><br />
+- Motivation<br />
+- Willingness to learn by doing<br />
+- Basic programming skills <br />
+- Prior knowledge in biology is not required<br />
+<br />
+Preferable skills (not required):<br />
+- Python<br />
+- Basic knowledge in probability and statistics, linear algebra and information theory<br />
+- Knowledge of PyTorch or another DL framework <br />
+- Basic knowledge in the machine and deep learning methods<br />
 </body>
 
 <body>
-    <h2>Project 2: Using NLP and graph neural networks to determine the DNA sequence</h2>
+<h2>Project 2: Using NLP and graph neural networks to determine the DNA sequence</h2>
 One of the main challenges in genomics is the determination of genome sequence using sequenced DNA fragments called reads. The standard procedure is the construction of a graph from overlapping reads and finding a path through it. The path represents the final sequence. Since there are no exact algorithms, which could accomplish this problem in a reasonable amount of time, it is necessary to use heuristic approaches. An intern would try several deep learning methods and reinforcement learning algorithms for graph simplifications.<br /><br />
   
 The goal of this project would be to develop deep learning models for locating critical patterns in graphs. The idea is learn in the space of algorithms. Initial models will be based on Message Passing Neural Networks. Still, at later stages of the project, other approaches will be tried out as well – such as reinforcement learning methods similar to those used in Alpha Zero and using NLP models (i.e. GPT3 or BERT) to learn genome sequence.<br /><br />
