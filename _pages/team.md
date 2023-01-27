@@ -47,7 +47,7 @@ members_row:
   linkedin: https://www.linkedin.com/in/manoj-itharajula-272007133
 - image_path: /assets/images/team_ffilip_tomas.jpg
   title: "Filip Tomas (FER)"
-  https://www.linkedin.com/in/filip-tomas-566335182/
+  linkedin: https://www.linkedin.com/in/filip-tomas-566335182/
 - image_path: /assets/images/ivona.jpeg
   title: "Ivona Martinović (GIS/NUS)"
   linkedin: https://www.linkedin.com/in/ivona-martinovi%C4%87-1112791b5/
