@@ -22,12 +22,14 @@ members_row:
 - image_path: /assets/images/team_kresimir.png
   title: "Krešimir Križanović (FER)"
 - image_path: /assets/images/team_martin.png
-  title: "Martin Schmitz (GIS)"
+  title: "Martin Schmitz (GIS/NUS)"
   linkedin: "https://www.linkedin.com/in/martin-schmitz-4586421ab/"
 - image_path: /assets/images/team_lin_dehui.jpg
   title: "Lin Dehui (GIS)"   
 - image_path: /assets/images/team_josipa_lipovac.jpeg
   title: "Josipa Lipovac (FER)" 
+  linkedin: https://www.linkedin.com/in/josipa-lipovac-7316aa1b6/
+  twitter: https://twitter.com/JosipaLipovac
 - image_path: /assets/images/team_andrej_dolmac.jpg
   title: "Andrej Dolmač (GIS)"
 - image_path: /assets/images/team_anil_kurkcu.jpg
@@ -35,16 +37,20 @@ members_row:
 - image_path: /assets/images/team_rafael.jpg
   title: "Rafael Josip Penić (FER)"
 - image_path: /assets/images/team_sara.jpeg
-  title: "Sara Bakić (GIS)"
+  title: "Sara Bakić (GIS/NUS)"
   linkedin: https://www.linkedin.com/in/sara-bakic/
 - image_path: /assets/images//team_kresimir_f.jpg
   title: "Krešimir Friganović (GIS)"
   linkedin: https://www.linkedin.com/in/kre%C5%A1imir-friganovi%C4%87-65b479102
 - image_path: /assets/images/team_manoj.JPEG
   title: "Manoj Itharajula (GIS)"
+  linkedin: https://www.linkedin.com/in/manoj-itharajula-272007133
 - image_path: /assets/images/team_ffilip_tomas.jpg
   title: "Filip Tomas (FER)"
-  
+  https://www.linkedin.com/in/filip-tomas-566335182/
+- image_path: /assets/images/ivona.jpeg
+  title: "Ivona Martinović (GIS/NUS)"
+  linkedin: https://www.linkedin.com/in/ivona-martinovi%C4%87-1112791b5/
 members_row2:
 - image_path: /assets/images/team_robert.jpg
   title: "Robert Vaser (PacBio)"
