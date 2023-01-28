@@ -36,6 +36,8 @@ members_row:
   title: "Anil Kurkcu (GIS)"
 - image_path: /assets/images/team_rafael.jpg
   title: "Rafael Josip Penić (FER)"
+  twitter: https://twitter.com/RJPenic
+  github: https://github.com/RJPenic
 - image_path: /assets/images/team_sara.jpeg
   title: "Sara Bakić (GIS/NUS)"
   linkedin: https://www.linkedin.com/in/sara-bakic/
