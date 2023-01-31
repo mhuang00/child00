@@ -47,6 +47,7 @@ members_row:
 - image_path: /assets/images/team_manoj.JPEG
   title: "Manoj Itharajula (GIS)"
   linkedin: https://www.linkedin.com/in/manoj-itharajula-272007133
+  twitter: https://twitter.com/manojitharajula
 - image_path: /assets/images/team_ffilip_tomas.jpg
   title: "Filip Tomas (FER)"
   linkedin: https://www.linkedin.com/in/filip-tomas-566335182/
