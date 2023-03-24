@@ -54,6 +54,8 @@ members_row:
 - image_path: /assets/images/ivona.jpeg
   title: "Ivona Martinović (GIS/NUS)"
   linkedin: https://www.linkedin.com/in/ivona-martinovi%C4%87-1112791b5/
+- image_path: /assets/images/Enes.png
+  title: "Enes Deumić (External Associate GIS)"
 members_row2:
 - image_path: /assets/images/team_robert.jpg
   title: "Robert Vaser (PacBio)"
