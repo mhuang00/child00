@@ -15,7 +15,7 @@ pubs_list:
   - url: https://www.nature.com/articles/s41592-022-01513-3
   - title: L. Vrček, X. Bresson, T. Laurent, M. Schmitz, M. Šikić. "Learning to Untangle Genome Assembly with Graph Convolutional Networks" arXiv preprint arXiv 2206.00668. 2022
   - url: https://arxiv.org/abs/2206.00668
-  - title: D. Stanojevic, Z. Li, R. Foo, M. Sikic. "Rockfish: A Transformer-based Model for Accurate 5-Methylcytosine Prediction from Nanopore Sequencing" bioRxiv, 2022.11.11.513492. 2022, Cold Spring Harbor Laboratory
+  - title: D. Stanojevic, Z. Li, R. Foo, M. Sikic. "Rockfish, A Transformer-based Model for Accurate 5-Methylcytosine Prediction from Nanopore Sequencing" bioRxiv, 2022.11.11.513492. 2022, Cold Spring Harbor Laboratory
   - url: https://www.biorxiv.org/content/10.1101/2022.11.11.513492v1.abstract
   - title: S. Duvnjak, Ž. Pavlinec, R. Vaser, K. Križanović, M. Šikić, M. Zdelar-Tuk, I. Reil, S. Špičić. "Efficacy of next-generation sequencing in bacterial zoonoses diagnostics" Veterinarska stanica, 53(1), 1-10. 2022, Hrvatski veterinarski institut
   - url: https://hrcak.srce.hr/file/380486
@@ -23,7 +23,7 @@ pubs_list:
     url: "https://www.nature.com/articles/s43588-021-00073-4"
   - title: Y Chen, N Davidson, YK Wan, H Patel, F Yao, HM Low, C Hendra et al. "A systematic benchmark of Nanopore long read RNA sequencing for transcript level analysis in human cell lines" bioRxiv. 2021
     url: "https://www.biorxiv.org/content/10.1101/2021.04.21.440736v1.abstract"
-  - title: L Vrček, P Veličković, M Šikić. "A step towards neural genome assembly" arXiv preprint arXiv:2011.05013. 2020
+  - title: L Vrček, P Veličković, M Šikić. "A step towards neural genome assembly" arXiv preprint arXiv 2011.05013. 2020
     url: "https://arxiv.org/abs/2011.05013"
   - title: J Maric, K Krizanovic, S Riondet, N Nagarajan, M Šikić. "Benchmarking metagenomic classification tools for long-read sequencing data" bioRxiv. 2020
     url: "https://www.biorxiv.org/content/10.1101/2020.11.25.397729v1.abstract"
