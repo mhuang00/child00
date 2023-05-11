@@ -13,7 +13,7 @@ pubs_list:
   - url: https://www.nature.com/articles/s42003-022-03940-6
   - title: T.A. Nguyen, J.W.J. Heng, P. Kaewsapsak, E.P.L. Kok, D. Stanojević, H. Liu, A. Cardilla, A. Praditya, Z. Yi, M. Lin, J.G.A. Aw, Y.Y. Ho, K.L.E. Peh, Y. Wang, Q. Zhong, J. Heraud-Farlow, S. Xue, B. Reversade, C. Walkley, Y.S. Ho, M. Šikić, Y. Wan, M.H. Tan. "Direct identification of A-to-I editing sites with nanopore native RNA sequencing" Nature Methods, 19(7), 833-844. 2022, Nature Publishing Group US
   - url: https://www.nature.com/articles/s41592-022-01513-3
-  - title: L. Vrček, X. Bresson, T. Laurent, M. Schmitz, M. Šikić. "Learning to Untangle Genome Assembly with Graph Convolutional Networks" arXiv preprint arXiv:2206.00668. 2022
+  - title: L. Vrček, X. Bresson, T. Laurent, M. Schmitz, M. Šikić. "Learning to Untangle Genome Assembly with Graph Convolutional Networks" arXiv preprint arXiv 2206.00668. 2022
   - url: https://arxiv.org/abs/2206.00668
   - title: D. Stanojevic, Z. Li, R. Foo, M. Sikic. "Rockfish: A Transformer-based Model for Accurate 5-Methylcytosine Prediction from Nanopore Sequencing" bioRxiv, 2022.11.11.513492. 2022, Cold Spring Harbor Laboratory
   - url: https://www.biorxiv.org/content/10.1101/2022.11.11.513492v1.abstract
