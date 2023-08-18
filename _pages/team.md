@@ -32,8 +32,6 @@ members_row:
   twitter: https://twitter.com/JosipaLipovac
 - image_path: /assets/images/team_andrej_dolmac.jpg
   title: "Andrej Dolmač (GIS)"
-- image_path: /assets/images/team_anil_kurkcu.jpg
-  title: "Anil Kurkcu (GIS)"
 - image_path: /assets/images/team_rafael.jpg
   title: "Rafael Josip Penić (FER)"
   twitter: https://twitter.com/RJPenic
@@ -56,6 +54,8 @@ members_row:
   linkedin: https://www.linkedin.com/in/ivona-martinovi%C4%87-1112791b5/
 - image_path: /assets/images/Enes.png
   title: "Enes Deumić (GIS)"
+- image_path: /assets/images/tin.jpg
+  title: "Tin Vlasic (GIS)"
 members_row2:
 - image_path: /assets/images/team_robert.jpg
   title: "Robert Vaser (PacBio)"
@@ -72,4 +72,6 @@ members_row2:
   title: "Matija Piškorec (IRB)"
 - image_path: /assets/images/team_filip.png
   title: "Filip Bosnić (FER)"
+- image_path: /assets/images/team_anil_kurkcu.jpg
+  title: "Anil Kurkcu (GIS)"
 ---
