@@ -56,6 +56,10 @@ members_row:
   title: "Enes Deumić (GIS)"
 - image_path: /assets/images/tin.jpg
   title: "Tin Vlasic (GIS)"
+  linkedin: www.linkedin.com/in/tin-vlasic
+  github: https://github.com/retiro
+- image_path: /assets/images/ivan.png
+  title: "Ivan Slijepčević (FER)"
 members_row2:
 - image_path: /assets/images/team_robert.jpg
   title: "Robert Vaser (PacBio)"
