@@ -7,11 +7,23 @@ header:
   overlay_image: /assets/images/homepage-banner.jpg
   
 pubs_list:
+  - title: M. Šikić. "Facilitating genome structural variation analysis" Nature Methods, 1-2. 2023, Nature Publishing Group US
+    url: https://www.nature.com/articles/s41592-023-01767-5
+  - title: A.H. Lim, Z.J. Low, P.N. Shingate, J.H. Hong, S.C. Chong, C.C.Y. Ng, W. Liu, R. Vaser, M. Šikić, W.K.K. Sung, N. Nagarajan, P. Tan, B.T. Teh. "Genome assembly and chemogenomic profiling of National Flower of Singapore Papilionanthe Miss Joaquim ‘Agnes’ reveals metabolic pathways regulating floral …" Communications Biology, 5(1), 967. 2022, Nature Publishing Group UK
+    url: https://www.nature.com/articles/s42003-022-03940-6
+  - title: T.A. Nguyen, J.W.J. Heng, P. Kaewsapsak, E.P.L. Kok, D. Stanojević, H. Liu, A. Cardilla, A. Praditya, Z. Yi, M. Lin, J.G.A. Aw, Y.Y. Ho, K.L.E. Peh, Y. Wang, Q. Zhong, J. Heraud-Farlow, S. Xue, B. Reversade, C. Walkley, Y.S. Ho, M. Šikić, Y. Wan, M.H. Tan. "Direct identification of A-to-I editing sites with nanopore native RNA sequencing" Nature Methods, 19(7), 833-844. 2022, Nature Publishing Group US
+    url: https://www.nature.com/articles/s41592-022-01513-3
+  - title: L. Vrček, X. Bresson, T. Laurent, M. Schmitz, M. Šikić. "Learning to Untangle Genome Assembly with Graph Convolutional Networks" arXiv preprint arXiv 2206.00668. 2022
+    url: https://arxiv.org/abs/2206.00668
+  - title: D. Stanojevic, Z. Li, R. Foo, M. Sikic. "Rockfish, A Transformer-based Model for Accurate 5-Methylcytosine Prediction from Nanopore Sequencing" bioRxiv, 2022.11.11.513492. 2022, Cold Spring Harbor Laboratory
+    url: https://www.biorxiv.org/content/10.1101/2022.11.11.513492v1.abstract
+  - title: S. Duvnjak, Ž. Pavlinec, R. Vaser, K. Križanović, M. Šikić, M. Zdelar-Tuk, I. Reil, S. Špičić. "Efficacy of next-generation sequencing in bacterial zoonoses diagnostics" Veterinarska stanica, 53(1), 1-10. 2022, Hrvatski veterinarski institut
+    url: https://hrcak.srce.hr/file/380486
   - title: R Vaser, M Šikić. "Time-and memory-efficient genome assembly with Raven" Nature Computational Science, 1-5. 2021
     url: "https://www.nature.com/articles/s43588-021-00073-4"
   - title: Y Chen, N Davidson, YK Wan, H Patel, F Yao, HM Low, C Hendra et al. "A systematic benchmark of Nanopore long read RNA sequencing for transcript level analysis in human cell lines" bioRxiv. 2021
     url: "https://www.biorxiv.org/content/10.1101/2021.04.21.440736v1.abstract"
-  - title: L Vrček, P Veličković, M Šikić. "A step towards neural genome assembly" arXiv preprint arXiv:2011.05013. 2020
+  - title: L Vrček, P Veličković, M Šikić. "A step towards neural genome assembly" arXiv preprint arXiv 2011.05013. 2020
     url: "https://arxiv.org/abs/2011.05013"
   - title: J Maric, K Krizanovic, S Riondet, N Nagarajan, M Šikić. "Benchmarking metagenomic classification tools for long-read sequencing data" bioRxiv. 2020
     url: "https://www.biorxiv.org/content/10.1101/2020.11.25.397729v1.abstract"
