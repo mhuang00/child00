@@ -60,6 +60,9 @@ members_row:
   github: https://github.com/retiro
 - image_path: /assets/images/ivan.png
   title: "Ivan Slijepčević (FER)"
+- image_path: /assets/images/tvrtko.png
+  title: "Tvrtko Brekalo (GIS)"
+  github: https://github.com/tbrekalo
 members_row2:
 - image_path: /assets/images/team_robert.jpg
   title: "Robert Vaser (PacBio)"
