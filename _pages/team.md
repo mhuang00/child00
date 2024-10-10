@@ -30,8 +30,6 @@ members_row:
   title: "Josipa Lipovac (FER)" 
   linkedin: https://www.linkedin.com/in/josipa-lipovac-7316aa1b6/
   twitter: https://twitter.com/JosipaLipovac
-- image_path: /assets/images/team_andrej_dolmac.jpg
-  title: "Andrej Dolmač (GIS)"
 - image_path: /assets/images/team_rafael.jpg
   title: "Rafael Josip Penić (FER)"
   twitter: https://twitter.com/RJPenic
@@ -48,8 +46,6 @@ members_row:
 - image_path: /assets/images/ivona.jpeg
   title: "Ivona Martinović (GIS/NUS)"
   linkedin: https://www.linkedin.com/in/ivona-martinovi%C4%87-1112791b5/
-- image_path: /assets/images/Enes.png
-  title: "Enes Deumić (GIS)"
 - image_path: /assets/images/tin.jpg
   title: "Tin Vlasic (GIS)"
   linkedin: www.linkedin.com/in/tin-vlasic
@@ -84,4 +80,8 @@ members_row2:
   title: "Manoj Itharajula (GIS)"
   linkedin: https://www.linkedin.com/in/manoj-itharajula-272007133
   twitter: https://twitter.com/manojitharajula
+- image_path: /assets/images/team_andrej_dolmac.jpg
+  title: "Andrej Dolmač (GIS)"
+- image_path: /assets/images/Enes.png
+  title: "Enes Deumić (GIS)"
 ---
