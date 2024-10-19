@@ -7,6 +7,15 @@ header:
   overlay_image: /assets/images/homepage-banner.jpg
   
 grid_row:
+- title: "GNNome"
+  url: "https://github.com/lbcb-sci/GNNome/tree/main"
+  excerpt: "GNNome is a framework for training graph neural networks to untangle assembly graphs obtained from OLC-based de novo genome assemblers."
+- title: "Herro"
+  url: "https://github.com/lbcb-sci/herro/tree/main"
+  excerpt: "HERRO (Haplotype-aware ERRor cOrrection) is a highly accurate, haplotype-aware, deep-learning tool for error correction of Nanopore R10.4.1, Kit 14 reads"
+- title: "Rockfish"
+  url: "https://github.com/lbcb-sci/rockfish"
+  excerpt: "Rockfish is the deep learning based tool for detecting 5mC DNA base modifications."
 - title: "Racon"
   url: "https://github.com/lbcb-sci/racon"
   excerpt: "Racon is the state-of-the-art tool for the consensus and/or polishing of genome assemblies. SPOA its core module is a SIMD accelerated multiple sequence alignment tool"
