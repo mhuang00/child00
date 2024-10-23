@@ -7,6 +7,9 @@ header:
   overlay_image: /assets/images/homepage-banner.jpg
   
 grid_row:
+- title: "RiNALMo"
+  url: "https://github.com/lbcb-sci/RiNALMo"
+  excerpt: "RiboNucleic Acid Language Model (RiNALMo) is an RNA language model with 650 million parameters pre-trained on 36 million non-coding RNA sequences from several available databases that achieves state-of-the-art results on several downstream tasks."
 - title: "GNNome"
   url: "https://github.com/lbcb-sci/GNNome/tree/main"
   excerpt: "GNNome is a framework for training graph neural networks to untangle assembly graphs obtained from OLC-based de novo genome assemblers."
